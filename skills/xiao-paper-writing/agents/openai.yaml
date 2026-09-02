@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xiao-Inspired Research Writer"
+  short_description: "Evidence-grounded robotics research and paper writing"
+  default_prompt: "Use $xiao-paper-writing to improve my research argument and draft using evidence-grounded lessons from Xuesu Xiao’s coauthored papers."

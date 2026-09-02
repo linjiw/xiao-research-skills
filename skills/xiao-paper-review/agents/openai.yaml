@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xiao-Inspired Paper Reviewer"
+  short_description: "Constructive, source-grounded robotics manuscript review"
+  default_prompt: "Use $xiao-paper-review to review my manuscript for claim strength, experimental fairness, and reproducibility."
