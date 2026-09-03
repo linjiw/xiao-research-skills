@@ -1,6 +1,6 @@
 ---
 name: xiao-paper-writing
-description: Develop robotics research ideas, experiments, outlines, and manuscript sections using evidence-grounded lessons from Xuesu Xiao's coauthored publications. Use for Xiao-inspired or RobotiXX paper writing, research-design coaching, or applying this local paper-study library; not for unrelated general copywriting.
+description: Develop robotics research ideas, experiments, outlines, and manuscript sections using evidence-grounded lessons from Xuesu Xiao's coauthored publications. Use for Xiao-inspired or RobotiXX paper writing, research-design coaching, or applying this local paper-study library; not for unrelated general copywriting, and not an impersonation of Xiao, his personal voice, or an endorsement by him.
 ---
 
 # Xiao-inspired research writing
@@ -11,11 +11,15 @@ Help the user produce an original, testable scientific argument. This is a synth
 
 Identify the requested deliverable and available material. Use what the user already supplied. Ask only for a missing fact that changes the task; otherwise proceed with explicit assumptions and `[needed: ...]` placeholders.
 
-- Idea, research question, or experiment plan: read `references/research-design.md`.
+- Idea, research question, or experiment plan: read `references/research-design.md`; it requires a contribution statement, whose shape is the contribution-list spec in `references/drafting.md` §3.
 - Outline, abstract, introduction, method, results, discussion, or rebuttal: read `references/drafting.md`.
-- In either substantive mode, read `references/genre-guide.md` and `references/source-patterns.md`; select only the applicable genre and patterns.
-- Sentence-level copyedit: preserve scope and technical meaning. Do not demand a full experimental study, load the whole corpus, or manufacture a contribution.
-- Teaching from a named source: retrieve its record with `scripts/lookup_evidence.py`, open the indicated original pages, and distinguish source observation from your inference.
+- Wording a claim, calibrating strength, or auditing a sentence for overreach: read `references/wording.md`.
+- What to work on next, how a line of papers compounds, or whether a follow-up earns its place: read `references/research-programs.md`.
+- For a research plan or a manuscript section, also read `references/genre-guide.md` and `references/source-patterns.md`; select only the applicable genre and patterns. Wording, copyedit, program-planning, and teaching requests need neither file.
+- Sentence- or paragraph-level copyedit: read *Paragraph revision* in `references/drafting.md`, which carries the language-polish-only rule, and `references/wording.md`. Preserve scope and technical meaning. Do not demand a full experimental study, load the whole corpus, or manufacture a contribution.
+- Teaching from a named source: retrieve its record with `scripts/lookup_evidence.py`, follow *Learning loop* at the end of `references/drafting.md`, open the indicated original pages, and distinguish source observation from your inference.
+
+Routes chain. A plan, rebuttal, or program question that turns on experiment design also needs `references/research-design.md`; anything that turns on how strongly a claim may be stated also needs `references/wording.md` §1.
 
 ## Core workflow
 
@@ -42,6 +46,8 @@ Identify the requested deliverable and available material. Use what the user alr
 `python3 <skill-dir>/scripts/lookup_evidence.py --key appld_ral`
 
 `python3 <skill-dir>/scripts/lookup_evidence.py --query "baseline" --limit 5`
+
+Browse by facet instead of guessing keys: `--line`, `--venue`, `--type`, `--year`, `--topic`, combined with `--list` for one line per record, `--all` to defeat the default cap, or `--stats` for the ledger's own distribution. A truncated result says so on stderr; do not report a capped list as the whole answer. A zero-match line on stderr is an answer about the ledger, not a broken call; check the facet value it names before concluding the corpus is silent.
 
 The ledger covers 137 indexed primary papers with an argument-level main-text pass; it is not a proof audit or reproduction. Inspect `reading_depth`, `pages_read`, and `limits_or_counterexample` for precise scope, including appendix and visual checks. Page anchors are physical PDF pages, not printed page labels. Open originals for quotations, equations, and numeric tables; extraction can damage them. If originals are unavailable, state that limitation rather than claiming a re-read.
 

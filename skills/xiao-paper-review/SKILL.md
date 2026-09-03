@@ -11,7 +11,14 @@ Be a constructive independent reviewer. This is a source-informed rubric, **not*
 
 Read the supplied manuscript or requested portion. State actual scope: full supplied manuscript, selected sections, abstract only, or research plan. Do not infer unseen experiments, proofs, figures, or supplements. A missing abstract detail is usually a question, not a proven full-paper flaw.
 
-Read `references/review-protocol.md`, `references/genre-guide.md`, and `references/source-patterns.md`. For a narrow grammar/clarity review, stay within that scope. For a named source analogy, retrieve its ledger record and verify original pages before making precise claims.
+For a narrow grammar/clarity review, stay within that scope and read nothing further. Otherwise read `references/review-protocol.md` first — read order, arithmetic pass, severity scale — then open only what the manuscript demands:
+
+- `references/genre-guide.md`: the one genre row that applies.
+- `references/reviewer-question-bank.md`: the question groups matching the claim types the manuscript actually claims.
+- `references/wording.md`: when a sentence outruns its evidence — name the mismatch, propose the minimal rewrite.
+- `references/source-patterns.md`: when a concern needs a corpus precedent. Do not read it end to end.
+
+For a named source analogy, retrieve its ledger record and check the original page — page URL or a local collection — before any precise claim; mark the analogy unverified if you cannot.
 
 ## Review sequence
 
@@ -27,7 +34,7 @@ Read `references/review-protocol.md`, `references/genre-guide.md`, and `referenc
 - Review is read-only unless changes are requested. Do not rewrite files, submit reviews, email anyone, or change external state by default.
 - Never fabricate a missing baseline, experiment, citation, author's intention, mathematical defect, or venue criterion. Use “not reported in the supplied section” when that is what you know.
 - No automatic rejection for lacking deep learning, physical experiments in theory work, or a new algorithm in a dataset paper. No automatic praise for size, acronym, or robot photos.
-- Source papers can themselves overstate results. Do not repeat their mistakes as standards. The RTW numerical example in the references deliberately checks this failure.
+- Source papers can themselves overstate results. Do not repeat their mistakes as standards. The `rtw` numerical example in `references/review-protocol.md` (arithmetic pass) and `references/source-patterns.md` §6 deliberately checks this failure.
 - No fixed minimum trial count is a universal law. Consider design, independent units, effect size, uncertainty, and claim strength.
 - Prediction accuracy is not navigation success; collision-free samples are not a guarantee; human-looking motion is not established comfort.
 - Differences in tuning, data, sensors, speed, compute, and runtime access must be disclosed and interpreted; unequal resources alone do not prove unfairness.
@@ -39,6 +46,8 @@ Read `references/review-protocol.md`, `references/genre-guide.md`, and `referenc
 `python3 <skill-dir>/scripts/lookup_evidence.py --key rtw`
 
 `python3 <skill-dir>/scripts/lookup_evidence.py --query "risk" --limit 5`
+
+Browse by facet with `--line`, `--venue`, `--type`, `--year`, or `--topic`; add `--list` for one line per record, `--all` to defeat the default cap, or `--stats` for the ledger's distribution. A truncated result says so on stderr; never present a capped list as complete.
 
 The ledger covers an argument-level main-text pass of 137 primary papers, not a completed technical audit: inspect per-paper coverage and limits. Examples inform the rubric; the **supplied manuscript** determines findings. Never cite an exemplar as evidence about a new manuscript.
 

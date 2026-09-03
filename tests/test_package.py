@@ -11,10 +11,36 @@ from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 SKILLS = tuple(ROOT/'skills'/name for name in ('xiao-paper-writing', 'xiao-paper-review'))
+SHARED = ('references/evidence-ledger.json', 'references/genre-guide.md',
+          'references/source-patterns.md', 'references/wording.md', 'scripts/lookup_evidence.py')
+PAPER_TYPES = frozenset((
+    'algorithm', 'dataset-benchmark', 'simulator', 'theory-planning', 'human-study',
+    'hardware-field', 'survey-position', 'challenge-report', 'tech-report', 'workshop-abstract',
+))
+# `key` p4 / `key` pp1–2,5 / (key p4) / (key pp3-4) — the citation forms the references use.
+# A comma continues a page list only when unspaced, so "`key` p6, 90 physical runs" stays one page.
+CITATION = re.compile(r'[`(]([a-z0-9][a-z0-9_-]{1,40})[`]?\s*(?:\))?[ ,]*pp?\.?\s*([0-9]+(?:[-–][0-9]+)?(?:,[0-9]+(?:[-–][0-9]+)?)*)')
 
 
 def records(skill):
     return json.loads((skill/'references/evidence-ledger.json').read_text())
+
+
+def distributed_files():
+    """Files this repository actually ships.
+
+    Ignored working-tree material—an optional `local-papers/` collection above all—is a
+    reader's own copy of third-party PDFs, not part of the distribution, so it is out of
+    scope for the no-PDF and no-private-path guarantees.
+    """
+    listing = subprocess.run(['git', '-C', str(ROOT), 'ls-files', '-z', '--cached', '--others', '--exclude-standard'],
+                             capture_output=True, text=True, check=False)
+    if listing.returncode == 0:
+        candidates = (ROOT/name for name in listing.stdout.split('\0') if name)
+    else:  # exported without version control: fall back to walking the tree
+        candidates = (path for path in ROOT.rglob('*')
+                      if not any(part in ('.git', '__pycache__', '.venv', 'local-papers') for part in path.relative_to(ROOT).parts))
+    return [path for path in candidates if path.is_file() or path.is_symlink()]
 
 
 def lookup(skill, *arguments):
@@ -56,7 +82,7 @@ class PackageTests(unittest.TestCase):
                         self.assertEqual(anchor['url'], p['source_url'].split('#', 1)[0]+'#page='+str(anchor['page']))
 
     def test_both_skills_bundle_identical_evidence_and_helpers(self):
-        for relative in ('references/evidence-ledger.json', 'scripts/lookup_evidence.py'):
+        for relative in SHARED:
             self.assertEqual((SKILLS[0]/relative).read_bytes(), (SKILLS[1]/relative).read_bytes())
 
     def test_skill_entrypoints_and_references(self):
@@ -149,12 +175,69 @@ class PackageTests(unittest.TestCase):
             self.assertEqual(result.returncode, 2)
             self.assertIn('must remain within', result.stderr)
 
+    def test_ledger_carries_browsable_metadata(self):
+        for skill in SKILLS:
+            rows = records(skill)
+            venues = {p['venue'] for p in rows}
+            lines = {p['research_line'] for p in rows}
+            with self.subTest(skill=skill.name):
+                self.assertGreater(len(venues), 20)
+                self.assertGreater(len(lines), 10)
+                self.assertIn('standalone', lines)
+                for p in rows:
+                    self.assertIn(p['paper_type'], PAPER_TYPES, p['key'])
+                    self.assertIn(p['venue_kind'], ('journal', 'magazine', 'conference', 'workshop', 'report', 'preprint'), p['key'])
+                    self.assertTrue(p['venue'] and p['venue_full'], p['key'])
+                    self.assertIsInstance(p['awards'], list)
+                    self.assertIsInstance(p['artifacts'], list)
+                    self.assertTrue(set(p['artifacts']) <= {'Video', 'Website', 'Code', 'Dataset', 'Poster', 'Presentation'}, p['key'])
+
+    def test_browse_filters_and_summaries(self):
+        for skill in SKILLS:
+            with self.subTest(skill=skill.name):
+                listed = lookup(skill, '--venue', 'RSS', '--all', '--list')
+                self.assertEqual(listed.returncode, 0, listed.stderr)
+                self.assertEqual(len(listed.stdout.strip().splitlines()), 1)
+                self.assertIn('verti_bench', listed.stdout)
+                filtered = lookup(skill, '--line', 'BARN', '--all')
+                self.assertEqual(filtered.returncode, 0, filtered.stderr)
+                self.assertTrue(all('BARN' in p['research_line'] for p in json.loads(filtered.stdout)))
+                narrowed = lookup(skill, '--type', 'challenge-report', '--query', 'competition', '--all')
+                self.assertEqual(narrowed.returncode, 0, narrowed.stderr)
+                self.assertTrue(json.loads(narrowed.stdout))
+                summary = lookup(skill, '--stats')
+                self.assertEqual(summary.returncode, 0, summary.stderr)
+                self.assertIn('research_line', summary.stdout)
+                capped = lookup(skill, '--venue', 'IROS', '--limit', '3')
+                self.assertEqual(len(json.loads(capped.stdout)), 3)
+                self.assertIn('match', capped.stderr)  # truncation is announced, never silent
+                conflict = lookup(skill, '--key', 'rtw', '--venue', 'IROS')
+                self.assertEqual(conflict.returncode, 2)
+
+    def test_reference_citations_point_at_real_pages(self):
+        for skill in SKILLS:
+            pages = {p['key']: p['physical_pages'] for p in records(skill)}
+            for path in sorted((skill/'references').glob('*.md')):
+                body = path.read_text()
+                cited = [(key, span) for key, span in CITATION.findall(body) if key in pages]
+                with self.subTest(reference=f'{skill.name}/{path.name}'):
+                    for key, span in cited:
+                        for number in re.findall(r'\d+', span):
+                            self.assertLessEqual(int(number), pages[key], f'{path.name}: {key} p{number} exceeds {pages[key]} pages')
+                    # A file that cites nothing has stopped being evidence-grounded.
+                    if path.name in ('source-patterns.md', 'wording.md'):
+                        self.assertTrue(cited, path.name)
+
+    def test_ignored_working_tree_is_out_of_distribution_scope(self):
+        shipped = {path.relative_to(ROOT).parts[0] for path in distributed_files()}
+        self.assertIn('skills', shipped)
+        self.assertNotIn('local-papers', shipped)
+        self.assertIn('local-papers/', (ROOT/'.gitignore').read_text())
+
     def test_distribution_contains_no_private_paths_or_pdfs(self):
         private_path = re.compile(r'/(?:Users|home)/[^/\s]+/')
         token_like = re.compile(r'(?:gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|-----BEGIN [A-Z ]*PRIVATE KEY-----)')
-        for path in ROOT.rglob('*'):
-            if not path.is_file() or any(part in ('.git', '__pycache__', '.venv') for part in path.relative_to(ROOT).parts):
-                continue
+        for path in distributed_files():
             with self.subTest(path=str(path.relative_to(ROOT))):
                 self.assertFalse(path.is_symlink())
                 self.assertNotEqual(path.suffix.lower(), '.pdf')

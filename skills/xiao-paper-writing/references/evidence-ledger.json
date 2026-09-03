@@ -45,7 +45,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Zifan Xu, Saad Abdul Ghani, Daeun Song, Alexandyr Card, Nhat Le, Peter Stone, Yunting Ji, Zihao Mao, Wenchao Zhang, Xiangyi Meng, Shenglin Li, Hahjin Lee, Jiyoung Park, Young J. Kim, Dun Yan Ong, Jin You Chan, Jason Wai Hao Yee, Wenda Chang, Khiem Nguyen, Yinuo Qu, and Yoonchang Sung. Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fifth BARN Challenge at ICRA 2026 . 2026.",
     "pdf_relative_path": "Preprints/2026/2026_Autonomous_Ground_Navigation_in_Highly_Constrained_Spaces_Lessons_Learned_from_the_Fifth_BARN_Challenge_at_ICRA_2026__barn26_report.pdf",
-    "source_sha256": "688c58b0846f3c0b362814b42a64b4fd6aa130d4752908ddc831ee2aad112bd3"
+    "source_sha256": "688c58b0846f3c0b362814b42a64b4fd6aa130d4752908ddc831ee2aad112bd3",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2026",
+    "awards": [],
+    "artifacts": [
+      "Website",
+      "Dataset"
+    ],
+    "paper_type": "challenge-report",
+    "research_line": "BARN: constrained-navigation benchmarking and challenge"
   },
   {
     "key": "mtc",
@@ -100,7 +110,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Beichen Wang, Yuanjie Lu, Linji Wang, Liuchuan Yu, and Xuesu Xiao . Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality . 2026.",
     "pdf_relative_path": "Preprints/2026/2026_Moving_Through_Clutter_Scaling_Data_Collection_and_Benchmarking_for_3D_Scene_Aware_Humanoid_Locomotion_via_Virtual_Reality__mtc.pdf",
-    "source_sha256": "a1aad55c2fe181159a9c0d011e575baf43fdc9c8499145e4d269ac863baea68d"
+    "source_sha256": "a1aad55c2fe181159a9c0d011e575baf43fdc9c8499145e4d269ac863baea68d",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2026",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Legged locomotion and curriculum learning"
   },
   {
     "key": "ado",
@@ -154,7 +171,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Francesco Cancelliere, Aniket Datar, Giovanni Muscato, and Xuesu Xiao . Balancing Accuracy and Efficiency: Adaptive Dynamics Orchestration for Model Predictive Control . 2026.",
     "pdf_relative_path": "Preprints/2026/2026_Balancing_Accuracy_and_Efficiency_Adaptive_Dynamics_Orchestration_for_Model_Predictive_Control__ado.pdf",
-    "source_sha256": "e3ed99d664f5773883a8b4304579948ba5f102470eb5a9f825cf2bd5574f4ee3"
+    "source_sha256": "e3ed99d664f5773883a8b4304579948ba5f102470eb5a9f825cf2bd5574f4ee3",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2026",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "car",
@@ -208,7 +232,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Tong Xu, Chenhui Pan, and Xuesu Xiao . CAR: Cross-Vehicle Kinodynamics Adaptation via Mobility Representation . 2026.",
     "pdf_relative_path": "Preprints/2026/2026_CAR_Cross_Vehicle_Kinodynamics_Adaptation_via_Mobility_Representation__car.pdf",
-    "source_sha256": "f6091066da0e47089d359ba809115a4d649a7fc500de0d8813d7f3db1597b451"
+    "source_sha256": "f6091066da0e47089d359ba809115a4d649a7fc500de0d8813d7f3db1597b451",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2026",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "temporal_tcgre",
@@ -263,7 +294,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Manshi Limbu, Xuan Wang, Gregory J. Stein, Daigo Shishika, and Xuesu Xiao . Forecast-Aware Cooperative Planning on Temporal Graphs under Stochastic Adversarial Risk . 2026.",
     "pdf_relative_path": "Preprints/2026/2026_Forecast_Aware_Cooperative_Planning_on_Temporal_Graphs_under_Stochastic_Adversarial_Risk__temporal_tcgre.pdf",
-    "source_sha256": "032d994f5ac01b6e0cdc63ead5a0f241580537aefa6377d5960ebff9a81f1ab1"
+    "source_sha256": "032d994f5ac01b6e0cdc63ead5a0f241580537aefa6377d5960ebff9a81f1ab1",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2026",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "TCGRE: team coordination on graphs"
   },
   {
     "key": "zlik",
@@ -319,7 +357,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Anuj Pokhrel, Aniket Datar, Mohammad Nazeri, Francesco Cancelliere, and Xuesu Xiao . Zero-Shot Adaptation to Robot Structural Damage via Natural Language-Informed Kinodynamics Modeling . 2026.",
     "pdf_relative_path": "Preprints/2026/2026_Zero_Shot_Adaptation_to_Robot_Structural_Damage_via_Natural_Language_Informed_Kinodynamics_Modeling__zlik.pdf",
-    "source_sha256": "2fb99230d94578edcef829af36865bd380df41313e306b9d16756b7d58ee1028"
+    "source_sha256": "2fb99230d94578edcef829af36865bd380df41313e306b9d16756b7d58ee1028",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2026",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Code"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "IKD: high-speed off-road inverse kinodynamics"
   },
   {
     "key": "lfh_cp",
@@ -372,7 +420,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Saad Abdul Ghani, Kameron Lee, and Xuesu Xiao . Learning from Hallucinating Critical Points for Navigation in Dynamic Environments . 2025.",
     "pdf_relative_path": "Preprints/2025/2025_Learning_from_Hallucinating_Critical_Points_for_Navigation_in_Dynamic_Environments__lfh_cp.pdf",
-    "source_sha256": "de2af960baae985df2b728e3c4f08d7e23390ffa3a3a09391f952d963a3ac750"
+    "source_sha256": "de2af960baae985df2b728e3c4f08d7e23390ffa3a3a09391f952d963a3ac750",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2025",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "LfH: learning from hallucination"
   },
   {
     "key": "sbt",
@@ -425,7 +480,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Harsh Rangwala, Madhan Balaji Rao, Anuj Pokhrel, Andre Harrison, Maggie Wigness, and Xuesu Xiao . Seeing Beyond Temperature: Multimodal Self-Supervised Learning for Thermal-Only Off-Road Mobility in No-Light Conditions . 2025.",
     "pdf_relative_path": "Preprints/2025/2025_Seeing_Beyond_Temperature_Multimodal_Self_Supervised_Learning_for_Thermal_Only_Off_Road_Mobility_in_No_Light_Conditions__sbt.pdf",
-    "source_sha256": "db3f3943f609bbf119126281fae3e086e9176a035394bdeb6c61567cf066adf3"
+    "source_sha256": "db3f3943f609bbf119126281fae3e086e9176a035394bdeb6c61567cf066adf3",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2025",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Low-light and thermal off-road perception"
   },
   {
     "key": "hacl",
@@ -477,7 +539,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Prakhar Mishra, Amir Hossain Raj, Xuesu Xiao , and Dinesh Manocha. HACL: History-Aware Curriculum Learning . 2025.",
     "pdf_relative_path": "Preprints/2025/2025_HACL_History_Aware_Curriculum_Learning__hacl.pdf",
-    "source_sha256": "4fad66b59f1546f273b73718f63a76c27d16ec21fc66250a12c3e4667c460c8e"
+    "source_sha256": "4fad66b59f1546f273b73718f63a76c27d16ec21fc66250a12c3e4667c460c8e",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2025",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Legged locomotion and curriculum learning"
   },
   {
     "key": "hpr-tcgre",
@@ -530,7 +599,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Yanlin Zhou, Manshi Limbu, Xuan Wang, Daigo Shishika, and Xuesu Xiao . Heterogeneous Team Coordination on Partially Observable Graphs with Realistic Communication . 2025.",
     "pdf_relative_path": "Preprints/2025/2025_Heterogeneous_Team_Coordination_on_Partially_Observable_Graphs_with_Realistic_Communication__hpr_tcgre.pdf",
-    "source_sha256": "ce4136b1fa197b15617651fe963f9021c72a2d89c86c094dc4c59f8f04f1bdd6"
+    "source_sha256": "ce4136b1fa197b15617651fe963f9021c72a2d89c86c094dc4c59f8f04f1bdd6",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2025",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "TCGRE: team coordination on graphs"
   },
   {
     "key": "vertiformer",
@@ -585,7 +663,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Mohammad Nazeri, Anuj Pokhrel, Alexandyr Card, Aniket Datar, Garrett Warnell, and Xuesu Xiao . VertiFormer: A Data-Efficient Multi-Task Transformer for Off-Road Robot Mobility . 2025.",
     "pdf_relative_path": "Preprints/2025/2025_VertiFormer_A_Data_Efficient_Multi_Task_Transformer_for_Off_Road_Robot_Mobility__vertiformer.pdf",
-    "source_sha256": "685c2091c7c54adb285e9bc473bc05afc3248070df7f81e594b4c896b7c57f92"
+    "source_sha256": "685c2091c7c54adb285e9bc473bc05afc3248070df7f81e594b4c896b7c57f92",
+    "venue": "preprint",
+    "venue_kind": "preprint",
+    "venue_full": "2025",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Code"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "maction_socialnav",
@@ -640,7 +728,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Zishuo Wang, Xinyu Zhang, Zhuonan Liu, Tomohito Kawabata, Daeun Song, Xuesu Xiao , and Ling Xiao. MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-enhanced Prompt Tuning . IEEE Robotics and Automation Letters (RA-L), 11(8): 9747-9754, 2026.",
     "pdf_relative_path": "Journal/2026/2026_MAction_SocialNav_Multi_Action_Socially_Compliant_Navigation_via_Reasoning_enhanced_Prompt_Tuning__maction_socialnav.pdf",
-    "source_sha256": "7b25af97fbed57539021d32be1bad7a48322426be8cd30536e627880c1f70e77"
+    "source_sha256": "7b25af97fbed57539021d32be1bad7a48322426be8cd30536e627880c1f70e77",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 11(8): 9747-9754, 2026",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "barn25_report",
@@ -695,7 +790,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Zifan Xu, Saad Abdul Ghani, Aniket Datar, Daeun Song, Peter Stone, Amna Mazen, Kamyab Yazdipaz, Innocent Mateyaunga, Mariam Faied, Mohan Krishnan, Yuanjie Lu, Tong Xu, Nick Mohammad, Woosung Kim, Jon Reasoner, Rohan Chandra, and Nicola Bezzo. Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from The Fourth BARN Challenge at ICRA 2025 . IEEE Robotics & Automation Magazine (RAM), 33(1): 186-196, 2026.",
     "pdf_relative_path": "Journal/2026/2026_Autonomous_Ground_Navigation_in_Highly_Constrained_Spaces_Lessons_Learned_from_The_Fourth_BARN_Challenge_at_ICRA_2025__barn25_report.pdf",
-    "source_sha256": "ebf15b31ca8111da27d8265d7eacfff99c314f9cc7f94a1d1d95f02417dcf39b"
+    "source_sha256": "ebf15b31ca8111da27d8265d7eacfff99c314f9cc7f94a1d1d95f02417dcf39b",
+    "venue": "RAM",
+    "venue_kind": "magazine",
+    "venue_full": "IEEE Robotics & Automation Magazine (RAM), 33(1): 186-196, 2026",
+    "awards": [],
+    "artifacts": [
+      "Website",
+      "Dataset"
+    ],
+    "paper_type": "challenge-report",
+    "research_line": "BARN: constrained-navigation benchmarking and challenge"
   },
   {
     "key": "anticipatory_tamp",
@@ -748,7 +853,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Roshan Dhakal, Duc M. Nguyen, Tom Silver, Xuesu Xiao , and Gregory J. Stein. Anticipatory Task and Motion Planning: Improved Rearrangement in Persistent Continuous-Space Environments . IEEE Robotics and Automation Letters (RA-L), 11(2): 1850-1857, 2026.",
     "pdf_relative_path": "Journal/2026/2026_Anticipatory_Task_and_Motion_Planning_Improved_Rearrangement_in_Persistent_Continuous_Space_Environments__anticipatory_tamp.pdf",
-    "source_sha256": "d62a3d979648038388608a33116126325226b18828a44e829d0b1ace79cb1292"
+    "source_sha256": "d62a3d979648038388608a33116126325226b18828a44e829d0b1ace79cb1292",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 11(2): 1850-1857, 2026",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Motion memory / experience reuse in planning"
   },
   {
     "key": "carol",
@@ -803,7 +915,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Zechen Hu, Tong Xu, Xuesu Xiao , and Xuan Wang. CARoL: Context-Aware Adaptation for Robot Learning . IEEE Robotics and Automation Letters (RA-L), 10(11): 12063-12070, 2025.",
     "pdf_relative_path": "Journal/2025/2025_CARoL_Context_Aware_Adaptation_for_Robot_Learning__carol.pdf",
-    "source_sha256": "125726090c41305fbebb5e0f2e5917be8da1d32308b253a87131dc8e958d625c"
+    "source_sha256": "125726090c41305fbebb5e0f2e5917be8da1d32308b253a87131dc8e958d625c",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 10(11): 12063-12070, 2025",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "hirl_vision_paper",
@@ -872,7 +991,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Kim Baraka, Ifrah Idrees, Taylor Kessler Faulkner, Erdem Biyik, Serena Booth, Mohamed Chetouani, Daniel H. Grollman, Akanksha Saran, Emmanuel Senft, Silvia Tulli, Anna-Lisa Vollmer, Antonio Andriella, Helen Beierling, Tiffany Horter, Jens Kober, Isaac Sheidlower, Matthew E. Taylor, Sanne van Waveren, and Xuesu Xiao . Human-Interactive Robot Learning: Definition, Challenges, and Recommendations . ACM Transactions on Human-Robot Interaction (THRI), 15(2), 46: 1-31, 2026.",
     "pdf_relative_path": "Journal/2026/2026_Human_Interactive_Robot_Learning_Definition_Challenges_and_Recommendations__hirl_vision_paper.pdf",
-    "source_sha256": "459902c99b54da1ee25fe506ae5bce7cf5ae7714d62db27e6aeade7e4e152146"
+    "source_sha256": "459902c99b54da1ee25fe506ae5bce7cf5ae7714d62db27e6aeade7e4e152146",
+    "venue": "THRI",
+    "venue_kind": "journal",
+    "venue_full": "ACM Transactions on Human-Robot Interaction (THRI), 15(2), 46: 1-31, 2026",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "survey-position",
+    "research_line": "Human-robot co-transportation and shared control"
   },
   {
     "key": "darc",
@@ -940,7 +1066,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Al Jaber Mahmud, Amir Hossain Raj, Duc M. Nguyen, Xuesu Xiao , and Xuan Wang. DARC: Disturbance-Aware Redundant Control for Human–Robot Co-Transportation . Electronics, 14(12): 2480, 2025.",
     "pdf_relative_path": "Journal/2025/2025_DARC_Disturbance_Aware_Redundant_Control_for_HumanRobot_Co_Transportation__darc.pdf",
-    "source_sha256": "a7d69f0f19a47b172f9c4115e10e98612317a75e66358ee443066037180c46c9"
+    "source_sha256": "a7d69f0f19a47b172f9c4115e10e98612317a75e66358ee443066037180c46c9",
+    "venue": "Electronics",
+    "venue_kind": "journal",
+    "venue_full": "Electronics, 14(12): 2480, 2025",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Human-robot co-transportation and shared control"
   },
   {
     "key": "erc2024",
@@ -994,7 +1127,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Jie Tan, Michael Cho, David Hsu, Dhruv Shah, Joanne Truong, Ted Xiao, Naoki Yokoyama, Wenhao Yu, Tingnan Zhang, Zhuo Xu, Santiago Pravisani, Niresh Dravin, and Mohammad Alshamsi. Autonomous Mario Kart in the Wild: Lessons Learned from The Earth Rover Challenge at IROS 2024 . IEEE Robotics & Automation Magazine (RAM), 32(2): 189-196, 2025.",
     "pdf_relative_path": "Journal/2025/2025_Autonomous_Mario_Kart_in_the_Wild_Lessons_Learned_from_The_Earth_Rover_Challenge_at_IROS_2024__erc2024.pdf",
-    "source_sha256": "79775ab75740c9443fc5c616f43217a876d7f343a46812630dfcdcb716a034e6"
+    "source_sha256": "79775ab75740c9443fc5c616f43217a876d7f343a46812630dfcdcb716a034e6",
+    "venue": "RAM",
+    "venue_kind": "magazine",
+    "venue_full": "IEEE Robotics & Automation Magazine (RAM), 32(2): 189-196, 2025",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "challenge-report",
+    "research_line": "BARN: constrained-navigation benchmarking and challenge"
   },
   {
     "key": "tgs",
@@ -1048,7 +1188,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Daeun Song, Jing Liang, Xuesu Xiao , and Dinesh Manocha. VL-TGS: Trajectory Generation and Selection using Vision Language Models in Mapless Outdoor Environments . IEEE Robotics and Automation Letters (RA-L), 10(6): 5791-5798, 2025.",
     "pdf_relative_path": "Journal/2025/2025_VL_TGS_Trajectory_Generation_and_Selection_using_Vision_Language_Models_in_Mapless_Outdoor_Environments__tgs.pdf",
-    "source_sha256": "2c2b02dbe1cb29380c8e1784f1699fd86ad16ab18f748cf0ad0c0d762f5e5317"
+    "source_sha256": "2c2b02dbe1cb29380c8e1784f1699fd86ad16ab18f748cf0ad0c0d762f5e5317",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 10(6): 5791-5798, 2025",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "pietra",
@@ -1102,7 +1251,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xiaoyi Cai, James Queeney, Tong Xu, Aniket Datar, Chenhui Pan, Max Miller, Ashton Flather, Philip R. Osteen, Nicholas Roy, Xuesu Xiao , and Jonathan P. How. PIETRA: Physics-Informed Evidential Learning for Traversing Out-of-Distribution Terrain . IEEE Robotics and Automation Letters (RA-L), 10(3): 2359-2366, 2025.",
     "pdf_relative_path": "Journal/2025/2025_PIETRA_Physics_Informed_Evidential_Learning_for_Traversing_Out_of_Distribution_Terrain__pietra.pdf",
-    "source_sha256": "b384e54b0dd9e1ca3ca159ebcd0b6fe691d353a22ccad6450131d5a272e828d3"
+    "source_sha256": "b384e54b0dd9e1ca3ca159ebcd0b6fe691d353a22ccad6450131d5a272e828d3",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 10(3): 2359-2366, 2025",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "id": 21,
@@ -1230,7 +1388,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Anthony Francis, Claudia Perez-D'Arpino, Chengshu Li, Fei Xia, Alexandre Alahi, Rachid Alami, Aniket Bera, Abhijat Biswas, Joydeep Biswas, Rohan Chandra, Hao-Tien Lewis Chiang, Michael Everett, Sehoon Ha, Justin Hart, Jonathan P. How, Haresh Karnan, Tsang-Wei Edward Lee, Luis J. Manso, Reuth Mirksy, Sören Pirk, Phani Teja Singamaneni, Peter Stone, Ada V. Taylor, Peter Trautman, Nathan Tsoi, Marynel Vazquez, Xuesu Xiao , Peng Xu, Naoki Yokoyama, Alexander Toshev, and Roberto Martin-Martin. Principles and Guidelines for Evaluating Social Robot Navigation Algorithms . ACM Transactions on Human-Robot Interaction (THRI), 14(2), 34: 1-65, 2025.",
     "pdf_relative_path": "Journal/2025/2025_Principles_and_Guidelines_for_Evaluating_Social_Robot_Navigation_Algorithms__social_nav_guidelines.pdf",
-    "source_sha256": "bb0e7ed0ae855468a0b8952842a9efa3984d3ee23b8172e5bfda634b930812d8"
+    "source_sha256": "bb0e7ed0ae855468a0b8952842a9efa3984d3ee23b8172e5bfda634b930812d8",
+    "venue": "THRI",
+    "venue_kind": "journal",
+    "venue_full": "ACM Transactions on Human-Robot Interaction (THRI), 14(2), 34: 1-65, 2025",
+    "awards": [],
+    "artifacts": [
+      "Website"
+    ],
+    "paper_type": "survey-position",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "wm_vct",
@@ -1284,7 +1451,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Aniket Datar, Chenhui Pan, and Xuesu Xiao . Learning to Model and Plan for Wheeled Mobility on Vertically Challenging Terrain . IEEE Robotics and Automation Letters (RA-L), 10(2): 1505-1512, 2024.",
     "pdf_relative_path": "Journal/2024/2024_Learning_to_Model_and_Plan_for_Wheeled_Mobility_on_Vertically_Challenging_Terrain__wm_vct.pdf",
-    "source_sha256": "e6d63027edd47fd469d741017c9a83cbd07b4830c948e1f176376e0620cc6c3f"
+    "source_sha256": "e6d63027edd47fd469d741017c9a83cbd07b4830c948e1f176376e0620cc6c3f",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 10(2): 1505-1512, 2024",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "vlm_social_nav",
@@ -1339,7 +1515,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Daeun Song, Jing Liang, Amirreza Payandeh, Amir Hossain Raj, Xuesu Xiao , and Dinesh Manocha. VLM-Social-Nav: Socially Aware Robot Navigation through Scoring using Vision-Language Models . IEEE Robotics and Automation Letters (RA-L), 10(1): 508-515, 2025.",
     "pdf_relative_path": "Journal/2025/2025_VLM_Social_Nav_Socially_Aware_Robot_Navigation_through_Scoring_using_Vision_Language_Models__vlm_social_nav.pdf",
-    "source_sha256": "c45d45a3ffa1ba7b7ea3cf76366898e8b6c9b0acc47d66c4ff8d67ac971bcc8a"
+    "source_sha256": "c45d45a3ffa1ba7b7ea3cf76366898e8b6c9b0acc47d66c4ff8d67ac971bcc8a",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 10(1): 508-515, 2025",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "cahsor",
@@ -1393,7 +1578,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Anuj Pokhrel, Mohammad Nazeri, Aniket Datar, and Xuesu Xiao . CAHSOR: Competence-Aware High-Speed Off-Road Ground Navigation in $\\mathbb{SE}(3)$ . IEEE Robotics and Automation Letters (RA-L), 9(11): 9653-9660, 2024.",
     "pdf_relative_path": "Journal/2024/2024_CAHSOR_Competence_Aware_High_Speed_Off_Road_Ground_Navigation_in_mathbb_SE_3__cahsor.pdf",
-    "source_sha256": "6bd197b4dcc58be9f7b5a0abc271a17420952f404e3fa21257ac4f9ff5ec78f9"
+    "source_sha256": "6bd197b4dcc58be9f7b5a0abc271a17420952f404e3fa21257ac4f9ff5ec78f9",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 9(11): 9653-9660, 2024",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "IKD: high-speed off-road inverse kinodynamics"
   },
   {
     "key": "barn24_report",
@@ -1447,7 +1641,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Zifan Xu, Aniket Datar, Garrett Warnell, Peter Stone, Joshua Julian Damanik, Jaewon Jung, Chala Adane Deresa, Than Duc Huy, Chen Jinyu, Chen Yichen, Joshua Adrian Cahyono, Jingda Wu, Longfei Mo, Mingyang Lv, Bowen Lan, Qingyang Meng, Weizhi Tao, and Li Cheng. Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned From the Third BARN Challenge at ICRA 2024 . IEEE Robotics & Automation Magazine (RAM), 31(3): 197-204, 2024.",
     "pdf_relative_path": "Journal/2024/2024_Autonomous_Ground_Navigation_in_Highly_Constrained_Spaces_Lessons_Learned_From_the_Third_BARN_Challenge_at_ICRA_2024__barn24_report.pdf",
-    "source_sha256": "081b1565a32644c39c77614691c7ec878ed73808ad17d08d76ccb4aebf570d67"
+    "source_sha256": "081b1565a32644c39c77614691c7ec878ed73808ad17d08d76ccb4aebf570d67",
+    "venue": "RAM",
+    "venue_kind": "magazine",
+    "venue_full": "IEEE Robotics & Automation Magazine (RAM), 31(3): 197-204, 2024",
+    "awards": [],
+    "artifacts": [
+      "Website",
+      "Dataset"
+    ],
+    "paper_type": "challenge-report",
+    "research_line": "BARN: constrained-navigation benchmarking and challenge"
   },
   {
     "key": "social_navigation_survey",
@@ -1523,7 +1727,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Reuth Mirsky, Xuesu Xiao , Justin Hart, and Peter Stone. Conflict Avoidance in Social Navigation - a Survey . ACM Transactions on Human-Robot Interaction (THRI), 13(1), 13: 1-36, 2024.",
     "pdf_relative_path": "Journal/2024/2024_Conflict_Avoidance_in_Social_Navigation_a_Survey__social_navigation_survey.pdf",
-    "source_sha256": "792b59d23673e5b61d96f61d9a87b240defdff1ce7254e29c003fe7969eed1b5"
+    "source_sha256": "792b59d23673e5b61d96f61d9a87b240defdff1ce7254e29c003fe7969eed1b5",
+    "venue": "THRI",
+    "venue_kind": "journal",
+    "venue_full": "ACM Transactions on Human-Robot Interaction (THRI), 13(1), 13: 1-36, 2024",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "survey-position",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "barn23_report",
@@ -1576,7 +1787,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Zifan Xu, Garrett Warnell, Peter Stone, Ferran Gebelli Guinjoan, Romulo T. Rodrigues, Herman Bruyninckx, Hanjaya Mandala, Guilherme Christmann, Jose Luis Blanco-Claraco, and Shravan Somashekara Rai. Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned From the Second BARN Challenge at ICRA 2023 . IEEE Robotics & Automation Magazine (RAM), 30(4): 91-97, 2023.",
     "pdf_relative_path": "Journal/2023/2023_Autonomous_Ground_Navigation_in_Highly_Constrained_Spaces_Lessons_Learned_From_the_Second_BARN_Challenge_at_ICRA_2023__barn23_report.pdf",
-    "source_sha256": "5d011a9b85b9015444736ef52dbf0b31c67fbdfc02be4ed58ca8fa9b3e34c3fd"
+    "source_sha256": "5d011a9b85b9015444736ef52dbf0b31c67fbdfc02be4ed58ca8fa9b3e34c3fd",
+    "venue": "RAM",
+    "venue_kind": "magazine",
+    "venue_full": "IEEE Robotics & Automation Magazine (RAM), 30(4): 91-97, 2023",
+    "awards": [],
+    "artifacts": [
+      "Website",
+      "Dataset"
+    ],
+    "paper_type": "challenge-report",
+    "research_line": "BARN: constrained-navigation benchmarking and challenge"
   },
   {
     "key": "barn22_report",
@@ -1631,7 +1852,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Zifan Xu, Zizhao Wang, Yunlong Song, Garrett Warnell, Peter Stone, Tingnan Zhang, Shravan Ravi, Gary Wang, Haresh Karnan, Joydeep Biswas, Nicholas Mohammad, Lauren Bramblett, Rahul Peddi, Nicola Bezzo, Zhanteng Xie, and Philip Dames. Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned From the Benchmark Autonomous Robot Navigation Challenge at ICRA 2022 . IEEE Robotics & Automation Magazine (RAM), 29(4): 148-156, 2022.",
     "pdf_relative_path": "Journal/2022/2022_Autonomous_Ground_Navigation_in_Highly_Constrained_Spaces_Lessons_Learned_From_the_Benchmark_Autonomous_Robot_Navigation_Challenge_at_ICRA_2022__barn22_report.pdf",
-    "source_sha256": "1938d091fb06d27c16853d8ccffa7ba1de1880710e9c5f3cbc38c6a63b7fdfbd"
+    "source_sha256": "1938d091fb06d27c16853d8ccffa7ba1de1880710e9c5f3cbc38c6a63b7fdfbd",
+    "venue": "RAM",
+    "venue_kind": "magazine",
+    "venue_full": "IEEE Robotics & Automation Magazine (RAM), 29(4): 148-156, 2022",
+    "awards": [],
+    "artifacts": [
+      "Website",
+      "Dataset"
+    ],
+    "paper_type": "challenge-report",
+    "research_line": "BARN: constrained-navigation benchmarking and challenge"
   },
   {
     "key": "scand",
@@ -1685,7 +1916,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Haresh Karnan, Anirudh Nair, Xuesu Xiao , Garrett Warnell, Sören Pirk, Alexander Toshev, Justin Hart, Joydeep Biswas, and Peter Stone. Socially CompliAnt Navigation Dataset (SCAND): A Large-Scale Dataset of Demonstrations for Social Navigation . IEEE Robotics and Automation Letters (RA-L), 7(4): 11807-11814, 2022.",
     "pdf_relative_path": "Journal/2022/2022_Socially_CompliAnt_Navigation_Dataset_SCAND_A_Large_Scale_Dataset_of_Demonstrations_for_Social_Navigation__scand.pdf",
-    "source_sha256": "c29aef723aed28b2239a774c4c1d3e1096e4ddcbae169b942c0889a757f729f9"
+    "source_sha256": "c29aef723aed28b2239a774c4c1d3e1096e4ddcbae169b942c0889a757f729f9",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 7(4): 11807-11814, 2022",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Dataset"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "applx",
@@ -1751,7 +1993,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Zizhao Wang, Zifan Xu, Bo Liu, Garrett Warnell, Gauraang Dhamankar, Anirudh Nair, and Peter Stone. APPL: Adaptive Planner Parameter Learning . Robotics and Autonomous Systems, 154: 104132, 2022.",
     "pdf_relative_path": "Journal/2022/2022_APPL_Adaptive_Planner_Parameter_Learning__applx.pdf",
-    "source_sha256": "7107f38b6ffa1ea53418319f4556cb5e7ca8cf6a22becd345ad245b3453aef4f"
+    "source_sha256": "7107f38b6ffa1ea53418319f4556cb5e7ca8cf6a22becd345ad245b3453aef4f",
+    "venue": "RAS",
+    "venue_kind": "journal",
+    "venue_full": "Robotics and Autonomous Systems, 154: 104132, 2022",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "APPL: adaptive planner parameter learning"
   },
   {
     "key": "ml4nav_survey",
@@ -1823,7 +2075,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Bo Liu, Garrett Warnell, and Peter Stone. Motion Planning and Control for Mobile Robot Navigation Using Machine Learning: a Survey . Autonomous Robots, 46: 569-597, 2022.",
     "pdf_relative_path": "Journal/2022/2022_Motion_Planning_and_Control_for_Mobile_Robot_Navigation_Using_Machine_Learning_a_Survey__ml4nav_survey.pdf",
-    "source_sha256": "eb60488eb0b6a86369f65be1767530b512edbb8749231ffd2761d1b4f0cc4452"
+    "source_sha256": "eb60488eb0b6a86369f65be1767530b512edbb8749231ffd2761d1b4f0cc4452",
+    "venue": "AURO",
+    "venue_kind": "journal",
+    "venue_full": "Autonomous Robots, 46: 569-597, 2022",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "survey-position",
+    "research_line": "standalone"
   },
   {
     "key": "extrinsics",
@@ -1878,7 +2137,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Yulin Zhang, Haifeng Li, Hongpeng Wang, and Binbin Li. Camera-IMU Extrinsic Calibration Quality Monitoring . IEEE Robotics and Automation Letters (RA-L), 7(2): 4614-4621, 2022.",
     "pdf_relative_path": "Journal/2022/2022_Camera_IMU_Extrinsic_Calibration_Quality_Monitoring__extrinsics.pdf",
-    "source_sha256": "c1c13b8ab63cd213a754c4617b089d25b2e50b92a50b68abc69c1c4b4929a936"
+    "source_sha256": "c1c13b8ab63cd213a754c4617b089d25b2e50b92a50b68abc69c1c4b4929a936",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 7(2): 4614-4621, 2022",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "standalone"
   },
   {
     "key": "apple",
@@ -1930,7 +2196,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Zizhao Wang, Xuesu Xiao , Garrett Warnell, and Peter Stone. APPLE: Adaptive Planner Parameter Learning from Evaluative Feedback . IEEE Robotics and Automation Letters (RA-L), 6(4): 7744-7749, 2021.",
     "pdf_relative_path": "Journal/2021/2021_APPLE_Adaptive_Planner_Parameter_Learning_from_Evaluative_Feedback__apple.pdf",
-    "source_sha256": "22d39ce91787035cb119d00f1d789f877d93f6808ea7db5081d066ee73581637"
+    "source_sha256": "22d39ce91787035cb119d00f1d789f877d93f6808ea7db5081d066ee73581637",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 6(4): 7744-7749, 2021",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "APPL: adaptive planner parameter learning"
   },
   {
     "key": "viewpoints",
@@ -1987,7 +2264,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Jan Dufek, Xuesu Xiao , and Robin Murphy. Best Viewpoints for External Robots or Sensors Assisting Other Robots . IEEE Transactions on Human-Machine Systems (THMS), 51(4): 324-334, 2021.",
     "pdf_relative_path": "Journal/2021/2021_Best_Viewpoints_for_External_Robots_or_Sensors_Assisting_Other_Robots__viewpoints.pdf",
-    "source_sha256": "0d748ec48068eaa05b46a27ad973e7c2db6ed887568a94b7aead1b4fbdf50449"
+    "source_sha256": "0d748ec48068eaa05b46a27ad973e7c2db6ed887568a94b7aead1b4fbdf50449",
+    "venue": "THMS",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Transactions on Human-Machine Systems (THMS), 51(4): 324-334, 2021",
+    "awards": [],
+    "artifacts": [
+      "Website"
+    ],
+    "paper_type": "human-study",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "offroad",
@@ -2040,7 +2326,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Joydeep Biswas, and Peter Stone. Learning Inverse Kinodynamics for Accurate High-Speed Off-Road Navigation on Unstructured Terrain . IEEE Robotics and Automation Letters (RA-L), 6(3): 6054-6060, 2021.",
     "pdf_relative_path": "Journal/2021/2021_Learning_Inverse_Kinodynamics_for_Accurate_High_Speed_Off_Road_Navigation_on_Unstructured_Terrain__offroad.pdf",
-    "source_sha256": "8d10a6ea4834644ae227b67bfd1b269bafc077e1de6453f55435ab534f4786ed"
+    "source_sha256": "8d10a6ea4834644ae227b67bfd1b269bafc077e1de6453f55435ab534f4786ed",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 6(3): 6054-6060, 2021",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "IKD: high-speed off-road inverse kinodynamics"
   },
   {
     "key": "hallucination",
@@ -2094,7 +2390,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Bo Liu, Garrett Warnell, and Peter Stone. Toward Agile Maneuvers in Highly Constrained Spaces: Learning from Hallucination . IEEE Robotics and Automation Letters (RA-L), 6(2): 1503-1510, 2021.",
     "pdf_relative_path": "Journal/2021/2021_Toward_Agile_Maneuvers_in_Highly_Constrained_Spaces_Learning_from_Hallucination__hallucination.pdf",
-    "source_sha256": "295a8f5bb0705d45480ab2dbd29ac092fedabb2596bd2ce0169e38f69f3eda28"
+    "source_sha256": "295a8f5bb0705d45480ab2dbd29ac092fedabb2596bd2ce0169e38f69f3eda28",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 6(2): 1503-1510, 2021",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "LfH: learning from hallucination"
   },
   {
     "key": "lifelong",
@@ -2146,7 +2453,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Bo Liu, Xuesu Xiao , and Peter Stone. A Lifelong Learning Approach to Mobile Robot Navigation . IEEE Robotics and Automation Letters (RA-L), 6(2): 1090-1096, 2021.",
     "pdf_relative_path": "Journal/2021/2021_A_Lifelong_Learning_Approach_to_Mobile_Robot_Navigation__lifelong.pdf",
-    "source_sha256": "9f5b614746e8a4e5e6f6ead08e3792371da5f8a6f855e623151b0bd01991837a"
+    "source_sha256": "9f5b614746e8a4e5e6f6ead08e3792371da5f8a6f855e623151b0bd01991837a",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 6(2): 1090-1096, 2021",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "standalone"
   },
   {
     "key": "appld_ral",
@@ -2199,7 +2515,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Bo Liu, Garrett Warnell, Jonathan Fink, and Peter Stone. APPLD: Adaptive Planner Parameter Learning from Demonstration . IEEE Robotics and Automation Letters (RA-L), 5(3): 4541-4547, 2020.",
     "pdf_relative_path": "Journal/2020/2020_APPLD_Adaptive_Planner_Parameter_Learning_from_Demonstration__appld_ral.pdf",
-    "source_sha256": "139d911d979680d03616d6ac190d26bc514c6a5fd34ead8fdb8b8fdded14b8a0"
+    "source_sha256": "139d911d979680d03616d6ac190d26bc514c6a5fd34ead8fdb8b8fdded14b8a0",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 5(3): 4541-4547, 2020",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "APPL: adaptive planner parameter learning"
   },
   {
     "key": "risk_ral",
@@ -2253,7 +2580,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Jan Dufek, and Robin R. Murphy. Robot Risk-Awareness by Formal Risk Reasoning and Planning . IEEE Robotics and Automation Letters (RA-L), 5(2): 2856-2863, 2020.",
     "pdf_relative_path": "Journal/2020/2020_Robot_Risk_Awareness_by_Formal_Risk_Reasoning_and_Planning__risk_ral.pdf",
-    "source_sha256": "5be89098649871ec1a5824fcde7c6a3e992a0d0fc7040e8add2c369ba7b9570d"
+    "source_sha256": "5be89098649871ec1a5824fcde7c6a3e992a0d0fc7040e8add2c369ba7b9570d",
+    "venue": "RA-L",
+    "venue_kind": "journal",
+    "venue_full": "IEEE Robotics and Automation Letters (RA-L), 5(2): 2856-2863, 2020",
+    "awards": [],
+    "artifacts": [
+      "Presentation"
+    ],
+    "paper_type": "theory-planning",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "energy_mechatronics",
@@ -2320,7 +2656,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Kshitij Tiwari, Xuesu Xiao , Ashish Malik, and Nak Young Chong. A Unified Framework for Operational Range Estimation of Mobile Robots Operating on a Single Discharge to Avoid Complete Immobilization . Mechatronics, 57: 173-187, 2019.",
     "pdf_relative_path": "Journal/2019/2019_A_Unified_Framework_for_Operational_Range_Estimation_of_Mobile_Robots_Operating_on_a_Single_Discharge_to_Avoid_Complete_Immobilization__energy_mechatronics.pdf",
-    "source_sha256": "c3beff402787eec9996b7107aacf81104007de261d61de3a82591412bcf9555f"
+    "source_sha256": "c3beff402787eec9996b7107aacf81104007de261d61de3a82591412bcf9555f",
+    "venue": "Mechatronics",
+    "venue_kind": "journal",
+    "venue_full": "Mechatronics, 57: 173-187, 2019",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "hardware-field",
+    "research_line": "Energy and achievable range"
   },
   {
     "key": "snake_ras",
@@ -2379,7 +2722,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao and Robin Murphy. A Review on Snake Robot Testbeds in Granular and Restricted Maneuverability Spaces . Robotics and Autonomous Systems, 110: 160-172, 2018.",
     "pdf_relative_path": "Journal/2018/2018_A_Review_on_Snake_Robot_Testbeds_in_Granular_and_Restricted_Maneuverability_Spaces__snake_ras.pdf",
-    "source_sha256": "6493c88288715bd728a4f7ff2edf9c809525777e2550f0e963e0d2551b3a26ed"
+    "source_sha256": "6493c88288715bd728a4f7ff2edf9c809525777e2550f0e963e0d2551b3a26ed",
+    "venue": "RAS",
+    "venue_kind": "journal",
+    "venue_full": "Robotics and Autonomous Systems, 110: 160-172, 2018",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "survey-position",
+    "research_line": "Snake / hyper-redundant robots (early era)"
   },
   {
     "id": 42,
@@ -2431,7 +2781,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Muzhou Wu, Jiantao Li, and Hongyi Zhang. Design and Realization of an Automobile Running Platform with External Panorama Simulation . Journal of Mechanical & Electrical Engineering, 29(5): 516-520, 2012.",
     "pdf_relative_path": "Journal/2012/2012_Design_and_Realization_of_an_Automobile_Running_Platform_with_External_Panorama_Simulation__car_jmee.pdf",
-    "source_sha256": "708a5a04cf42b24df2235cedb3c984b67775f340207394bbef1e52096e66029c"
+    "source_sha256": "708a5a04cf42b24df2235cedb3c984b67775f340207394bbef1e52096e66029c",
+    "venue": "JMEE",
+    "venue_kind": "journal",
+    "venue_full": "Journal of Mechanical & Electrical Engineering, 29(5): 516-520, 2012",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "hardware-field",
+    "research_line": "standalone"
   },
   {
     "key": "applv",
@@ -2485,7 +2844,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Yuanjie Lu, Beichen Wang, Zhenqi Wu, Yang Li, Xiaomin Lin, Chengzhi Mao, and Xuesu Xiao . APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_APPLV_Adaptive_Planner_Parameter_Learning_from_Vision_Language_Action_Model__applv.pdf",
-    "source_sha256": "ba251ba6f59a1d92c90ed3ea7199c7c0eec015f7a6759b9b04acb9fc7241a29a"
+    "source_sha256": "ba251ba6f59a1d92c90ed3ea7199c7c0eec015f7a6759b9b04acb9fc7241a29a",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "APPL: adaptive planner parameter learning"
   },
   {
     "key": "humain",
@@ -2539,7 +2907,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Daeun Song, Nhat Le, Jeffrey Chen, Mohammad Nazeri, Amirreza Payandeh, Rohan Chandra, Reuth Mirsky, Ross Mead, Ling Xiao, and Xuesu Xiao . HUMAIN: Human-Aware Implicit Social Robot Navigation . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_HUMAIN_Human_Aware_Implicit_Social_Robot_Navigation__humain.pdf",
-    "source_sha256": "f7faa79fedbb7e6c54e6f848aae86dd9e7ecfc25317789ff8363a0343219461c"
+    "source_sha256": "f7faa79fedbb7e6c54e6f848aae86dd9e7ecfc25317789ff8363a0343219461c",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "compa",
@@ -2593,7 +2970,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Giuseppe Sutera, Francesco Cancelliere, Aniket Datar, Cedric Thomas Sebastien Hollande, Kartik Virmani, Anuj Pokhrel, Dario Calogero Guastella, Giovanni Muscato, Mark Yim, and Xuesu Xiao . CHUTNI: Compensated Holonomic Uneven Terrain Isolator . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_CHUTNI_Compensated_Holonomic_Uneven_Terrain_Isolator__compa.pdf",
-    "source_sha256": "c4cf3f74cc9677596ba3584797b32e693c6bcf6c3bc689346681f3cb4c56149e"
+    "source_sha256": "c4cf3f74cc9677596ba3584797b32e693c6bcf6c3bc689346681f3cb4c56149e",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "hardware-field",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "va",
@@ -2632,7 +3018,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Tong Xu, Chenhui Pan, Aniket Datar, and Xuesu Xiao . VertiAdaptor: Online Kinodynamics Adaptation for Vertically Challenging Terrain . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_VertiAdaptor_Online_Kinodynamics_Adaptation_for_Vertically_Challenging_Terrain__va.pdf",
-    "source_sha256": "ab6cae2e4c2f6273bf5a5a8a3e9de30b26355925ab82149e40e122793f051529"
+    "source_sha256": "ab6cae2e4c2f6273bf5a5a8a3e9de30b26355925ab82149e40e122793f051529",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "tnt",
@@ -2677,7 +3072,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Chenhui Pan, Aniket Datar, Anuj Pokhrel, Matthew Choulas, Mohammad Nazeri, Tong Xu, and Xuesu Xiao . Traverse the Non-Traversable: Estimating Traversability for Wheeled Mobility on Vertically Challenging Terrain . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_Traverse_the_Non_Traversable_Estimating_Traversability_for_Wheeled_Mobility_on_Vertically_Challenging_Terrain__tnt.pdf",
-    "source_sha256": "6a905102fe66b7786b6c96b659a2e3e40c124b9624c0ee579f3692fc4a896aea"
+    "source_sha256": "6a905102fe66b7786b6c96b659a2e3e40c124b9624c0ee579f3692fc4a896aea",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "squid",
@@ -2716,7 +3120,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Amir Hossain Raj, Dibyendu Das, and Xuesu Xiao . Robot Squid Game: Quadrupedal Locomotion for Traversing Narrow Tunnels . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_Robot_Squid_Game_Quadrupedal_Locomotion_for_Traversing_Narrow_Tunnels__squid.pdf",
-    "source_sha256": "bf5b1b4aa8a378b43b322e6098ed9768633c24430bebb0365dbb1987140a35bd"
+    "source_sha256": "bf5b1b4aa8a378b43b322e6098ed9768633c24430bebb0365dbb1987140a35bd",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Legged locomotion and curriculum learning"
   },
   {
     "key": "faas",
@@ -2761,7 +3174,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Anton R. Wagner, Madhan Balaji Rao, Helge Wrede, Sören Pirk, and Xuesu Xiao . Fire as a Service: Augmenting Robot Simulators with Thermally and Visually Accurate Fire Dynamics . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_Fire_as_a_Service_Augmenting_Robot_Simulators_with_Thermally_and_Visually_Accurate_Fire_Dynamics__faas.pdf",
-    "source_sha256": "f54a99b54b60ba230f28cca6462f5ac6aeae65a29bb7d8cfe7bdc753af51adbb"
+    "source_sha256": "f54a99b54b60ba230f28cca6462f5ac6aeae65a29bb7d8cfe7bdc753af51adbb",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website"
+    ],
+    "paper_type": "simulator",
+    "research_line": "Low-light and thermal off-road perception"
   },
   {
     "key": "coral",
@@ -2806,7 +3229,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Zhenqi Wu, Yuanjie Lu, Xuesu Xiao , and Xiaomin Lin. CORAL: COntextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_CORAL_COntextual_Reasoning_And_Local_Planning_in_A_Hierarchical_VLM_Framework_for_Underwater_Monitoring__coral.pdf",
-    "source_sha256": "e7d89cc108266bad04898faf8ff5ef2c9ba6d5aa412286e988e1f8437561e5ac"
+    "source_sha256": "e7d89cc108266bad04898faf8ff5ef2c9ba6d5aa412286e988e1f8437561e5ac",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "standalone"
   },
   {
     "key": "fire",
@@ -2846,7 +3278,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Anton R. Wagner, Madhan Balaji Rao, Xuesu Xiao , and Sören Pirk. Understanding Fire Through Thermal Radiation Fields for Mobile Robots . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_Understanding_Fire_Through_Thermal_Radiation_Fields_for_Mobile_Robots__fire.pdf",
-    "source_sha256": "3fb12086225afceb01c9250d4a9cbdd0b275a467e0961086d6c66f51ee15b9ff"
+    "source_sha256": "3fb12086225afceb01c9250d4a9cbdd0b275a467e0961086d6c66f51ee15b9ff",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Low-light and thermal off-road perception"
   },
   {
     "key": "transcurriculum",
@@ -2885,7 +3327,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Prakhar Mishra, Amir Hossain Raj, Xuesu Xiao , and Dinesh Manocha. TransCurriculum: Multi-Dimensional Curriculum Learning for Fast & Stable Locomotion . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_TransCurriculum_Multi_Dimensional_Curriculum_Learning_for_Fast_Stable_Locomotion__transcurriculum.pdf",
-    "source_sha256": "756942b60bfdf0cbdda8a93f60e0ef5c1ad2bc33153bac6c56f89c7e3afe8f96"
+    "source_sha256": "756942b60bfdf0cbdda8a93f60e0ef5c1ad2bc33153bac6c56f89c7e3afe8f96",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Legged locomotion and curriculum learning"
   },
   {
     "key": "humembr",
@@ -2930,7 +3381,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Samira Huber, Klaas Pelzer, Duc M. Nguyen, Xuesu Xiao , and Sören Pirk. HUMEMBR: Learning Human Routines for Predictive Embodied Navigation . Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2026/2026_HUMEMBR_Learning_Human_Routines_for_Predictive_Embodied_Navigation__humembr.pdf",
-    "source_sha256": "28e18e28377ae485d5b556e72fe9fbb7b349a84007539bbee12586a5a21d6aae"
+    "source_sha256": "28e18e28377ae485d5b556e72fe9fbb7b349a84007539bbee12586a5a21d6aae",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Code"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "narrate2nav",
@@ -2976,7 +3438,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Amirreza Payandeh, Anuj Pokhrel, Daeun Song, Marcos Zampieri, and Xuesu Xiao . Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments . Accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2026/2026_Narrate2Nav_Real_Time_Visual_Navigation_with_Implicit_Language_Reasoning_in_Human_Centric_Environments__narrate2nav.pdf",
-    "source_sha256": "27d328c19b27933eba7ae1e964fdaaea2b2f28ebe4e2a41d719808987f0fea1f"
+    "source_sha256": "27d328c19b27933eba7ae1e964fdaaea2b2f28ebe4e2a41d719808987f0fea1f",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "adp",
@@ -3021,7 +3490,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Yuanjie Lu, Mingyang Mao, Tong Xu, Linji Wang, Xiaomin Lin, and Xuesu Xiao . Adaptive Dynamics Planning for Robot Navigation . Accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2026/2026_Adaptive_Dynamics_Planning_for_Robot_Navigation__adp.pdf",
-    "source_sha256": "c3c7ad9ba48dc812acaa2fe3eb774f95099a981251e704e8c1f024748477f3fe"
+    "source_sha256": "c3c7ad9ba48dc812acaa2fe3eb774f95099a981251e704e8c1f024748477f3fe",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "legs_over_arms",
@@ -3061,7 +3537,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Nhat Le, Daeun Song, and Xuesu Xiao . Legs Over Arms: On the Predictive Value of Lower-Body Pose for Human Trajectory Prediction from Egocentric Robot Perception . Accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2026/2026_Legs_Over_Arms_On_the_Predictive_Value_of_Lower_Body_Pose_for_Human_Trajectory_Prediction_from_Egocentric_Robot_Perception__legs_over_arms.pdf",
-    "source_sha256": "51d0c62db310447de6649d3b20393f9868c492b7754d6c823974fd3501117108"
+    "source_sha256": "51d0c62db310447de6649d3b20393f9868c492b7754d6c823974fd3501117108",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "failure_mitigation",
@@ -3106,7 +3589,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Duc M. Nguyen, Saad A. Ghani, Andrew Marshall, Allison Andreyev, Gregory J. Stein, and Xuesu Xiao . Failing Gracefully: Mitigating Impact of Inevitable Robot Failures . Accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2026/2026_Failing_Gracefully_Mitigating_Impact_of_Inevitable_Robot_Failures__failure_mitigation.pdf",
-    "source_sha256": "11209becbad2a10d751256ab1ab78467a4d5e4190747cac2f17badbf9696949a"
+    "source_sha256": "11209becbad2a10d751256ab1ab78467a4d5e4190747cac2f17badbf9696949a",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Human-robot co-transportation and shared control"
   },
   {
     "key": "e_socialnav",
@@ -3152,7 +3642,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Ling Xiao, Daeun Song, Xuesu Xiao , and Toshihiko Yamasaki. E-SocialNav: Efficient Socially Compliant Navigation with Language Models . 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP).",
     "pdf_relative_path": "Conference/2026/2026_E_SocialNav_Efficient_Socially_Compliant_Navigation_with_Language_Models__e_socialnav.pdf",
-    "source_sha256": "aeec2fac9a8bf96d40a6c270ab4af5d2599b66ed208a746b5f733f6f88efa01f"
+    "source_sha256": "aeec2fac9a8bf96d40a6c270ab4af5d2599b66ed208a746b5f733f6f88efa01f",
+    "venue": "ICASSP",
+    "venue_kind": "conference",
+    "venue_full": "2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "mrvs",
@@ -3198,7 +3695,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Puqi Zhou, Ali Asgarov, Aafiya Hussain, Wonjoon Park, Amit Paudyal, Sameep Shrestha, Chia-Wei Tang, Michael Lighthiser, Michael Hieb, Xuesu Xiao , Chris Thomas, and Sungsoo Ray Hong. Designing Multi-Robot Ground Video Sensemaking with Public Safety Professionals . 2026 CHI Conference on Human Factors in Computing Systems.",
     "pdf_relative_path": "Conference/2026/2026_Designing_Multi_Robot_Ground_Video_Sensemaking_with_Public_Safety_Professionals__mrvs.pdf",
-    "source_sha256": "9d387556cfc181c677c1cfee116e09bb2123ea9eea92fb4713ad637a16a556f4"
+    "source_sha256": "9d387556cfc181c677c1cfee116e09bb2123ea9eea92fb4713ad637a16a556f4",
+    "venue": "CHI",
+    "venue_kind": "conference",
+    "venue_full": "2026 CHI Conference on Human Factors in Computing Systems",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "human-study",
+    "research_line": "standalone"
   },
   {
     "key": "verti_arena",
@@ -3244,7 +3748,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Haiyue Chen, Aniket Datar, Tong Xu, Francesco Cancelliere, Harsh Rangwala, Madhan Balaji Rao, Daeun Song, David Eichinger, and Xuesu Xiao . Verti-Arena: A Controllable and Standardized Indoor Testbed for Multi-Terrain Off-Road Autonomy . 2025 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). Best Student Presenter Award .",
     "pdf_relative_path": "Conference/2025/2025_Verti_Arena_A_Controllable_and_Standardized_Indoor_Testbed_for_Multi_Terrain_Off_Road_Autonomy__verti_arena.pdf",
-    "source_sha256": "d3599f64860fe3e5e54fa10bde724f2fa7ce26c911ed2ee8d9e91c54574b7507"
+    "source_sha256": "d3599f64860fe3e5e54fa10bde724f2fa7ce26c911ed2ee8d9e91c54574b7507",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). Best Student Presenter Award",
+    "awards": [
+      "Best Student Presenter Award"
+    ],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "dom_phli",
@@ -3289,7 +3804,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Anuj Pokhrel, Aniket Datar, and Xuesu Xiao . Dom, cars don't fly!---Or do they? In-Air Vehicle Maneuver for High-Speed Off-Road Navigation . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_Dom_cars_don_t_fly_Or_do_they_In_Air_Vehicle_Maneuver_for_High_Speed_Off_Road_Navigation__dom_phli.pdf",
-    "source_sha256": "71306062f86b58edda4f0dd2a85fe1a37886e1485e52a521d68f13727e011dbf"
+    "source_sha256": "71306062f86b58edda4f0dd2a85fe1a37886e1485e52a521d68f13727e011dbf",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "IKD: high-speed off-road inverse kinodynamics"
   },
   {
     "key": "rtw",
@@ -3334,7 +3858,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Linji Wang, Tong Xu, Yuanjie Lu, and Xuesu Xiao . Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_Reward_Training_Wheels_Adaptive_Auxiliary_Rewards_for_Robotics_Reinforcement_Learning__rtw.pdf",
-    "source_sha256": "b1a8edede7d8941fda28c9296b1e3b64b6e024b545fa2e775304eb495676ef55"
+    "source_sha256": "b1a8edede7d8941fda28c9296b1e3b64b6e024b545fa2e775304eb495676ef55",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Legged locomotion and curriculum learning"
   },
   {
     "key": "ddp",
@@ -3379,7 +3912,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Yuanjie Lu, Tong Xu, Linji Wang, Nick Hawes, and Xuesu Xiao . Decremental Dynamics Planning for Robot Navigation . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_Decremental_Dynamics_Planning_for_Robot_Navigation__ddp.pdf",
-    "source_sha256": "9000a652e5133421e46b0647eb310664d68de2c3518db0fe28d598a9f7bde1f3"
+    "source_sha256": "9000a652e5133421e46b0647eb310664d68de2c3518db0fe28d598a9f7bde1f3",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "auto_spatial",
@@ -3425,7 +3967,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Yangzhe Kong, Daeun Song, Jing Liang, Dinesh Manocha, Ziyu Yao, and Xuesu Xiao . AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_AutoSpatial_Visual_Language_Reasoning_for_Social_Robot_Navigation_through_Efficient_Spatial_Reasoning_Learning__auto_spatial.pdf",
-    "source_sha256": "dae665292b53460299d9e4f2f516d2bf85701f66c3f6b10d81c5d5933d282afa"
+    "source_sha256": "dae665292b53460299d9e4f2f516d2bf85701f66c3f6b10d81c5d5933d282afa",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "t_cbf",
@@ -3471,7 +4020,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Manas Gupta and Xuesu Xiao . T-CBF: Traversability-based Control Barrier Function to Navigate Vertically Challenging Terrain . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_T_CBF_Traversability_based_Control_Barrier_Function_to_Navigate_Vertically_Challenging_Terrain__t_cbf.pdf",
-    "source_sha256": "14836fe24c7f0058adc9c519f329e321efd8660ad38323114583a2a382d6c6d2"
+    "source_sha256": "14836fe24c7f0058adc9c519f329e321efd8660ad38323114583a2a382d6c6d2",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "m2p2",
@@ -3518,7 +4076,19 @@
     "analysis_date": "2026-09-02",
     "citation": "Aniket Datar, Anuj Pokhrel, Mohammad Nazeri, Madhan B. Rao, Harsh Rangwala, Chenhui Pan, Yufan Zhang, Andre Harrison, Maggie Wigness, Philip R. Osteen, Jinwei Ye, and Xuesu Xiao . M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_M2P2_A_Multi_Modal_Passive_Perception_Dataset_for_Off_Road_Mobility_in_Extreme_Low_Light_Conditions__m2p2.pdf",
-    "source_sha256": "c055753c8067bd790f2a4d99ef92c5e7f84ad37641cd6a3471c14472a9e808bf"
+    "source_sha256": "c055753c8067bd790f2a4d99ef92c5e7f84ad37641cd6a3471c14472a9e808bf",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Code",
+      "Dataset"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Low-light and thermal off-road perception"
   },
   {
     "key": "gacl",
@@ -3563,7 +4133,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Linji Wang, Zifan Xu, Peter Stone, and Xuesu Xiao . GACL: Grounded Adaptive Curriculum Learning with Active Task and Performance Monitoring . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_GACL_Grounded_Adaptive_Curriculum_Learning_with_Active_Task_and_Performance_Monitoring__gacl.pdf",
-    "source_sha256": "7683c11ff1d720b40d580464a5d160974690d2ed9716d2163f9f43094afe5e59"
+    "source_sha256": "7683c11ff1d720b40d580464a5d160974690d2ed9716d2163f9f43094afe5e59",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Legged locomotion and curriculum learning"
   },
   {
     "key": "vs",
@@ -3609,7 +4188,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Tong Xu, Chenhui Pan, and Xuesu Xiao . VertiSelector: Automatic Curriculum Learning for Wheeled Mobility on Vertically Challenging Terrain . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_VertiSelector_Automatic_Curriculum_Learning_for_Wheeled_Mobility_on_Vertically_Challenging_Terrain__vs.pdf",
-    "source_sha256": "53af2a1b32caaedc96761b522aacdb6d0453c2caa6b7d3e5a818d50bdb722146"
+    "source_sha256": "53af2a1b32caaedc96761b522aacdb6d0453c2caa6b7d3e5a818d50bdb722146",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "dyna_lflh",
@@ -3654,7 +4242,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Saad Abdul Ghani, Zizhao Wang, Peter Stone, and Xuesu Xiao . Dyna-LfLH: Learning Agile Navigation in Dynamic Environments from Learned Hallucination . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_Dyna_LfLH_Learning_Agile_Navigation_in_Dynamic_Environments_from_Learned_Hallucination__dyna_lflh.pdf",
-    "source_sha256": "38d959dcafadd94082f065956ea210603520f29686c77b48f554dff20e22dc0e"
+    "source_sha256": "38d959dcafadd94082f065956ea210603520f29686c77b48f554dff20e22dc0e",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "LfH: learning from hallucination"
   },
   {
     "key": "social_llava",
@@ -3700,7 +4297,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Amirreza Payandeh, Daeun Song, Mohammad Nazeri, Jing Liang, Praneel Mukherjee, Amir Hossain Raj, Yangzhe Kong, Dinesh Manocha, and Xuesu Xiao . Social-LLaVA: Enhancing Robot Navigation through Human-Language Reasoning in Social Spaces . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_Social_LLaVA_Enhancing_Robot_Navigation_through_Human_Language_Reasoning_in_Social_Spaces__social_llava.pdf",
-    "source_sha256": "5f7318eb80b17fccf243d687af85c7d879294ae98454813013a3711e4ceb1c75"
+    "source_sha256": "5f7318eb80b17fccf243d687af85c7d879294ae98454813013a3711e4ceb1c75",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "fetch_mpc",
@@ -3745,7 +4352,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Al Jaber Mahmud, Amir Hossain Raj, Duc M. Nguyen, Xuesu Xiao , and Xuan Wang. Human-Robot Co-Transportation using Disturbance-Aware MPC with Pose Optimization . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_Human_Robot_Co_Transportation_using_Disturbance_Aware_MPC_with_Pose_Optimization__fetch_mpc.pdf",
-    "source_sha256": "2ad921e27a08f0a4a8bff406f7cf89d47457a9d5b809ab1ca1acdcb42e9dbeea"
+    "source_sha256": "2ad921e27a08f0a4a8bff406f7cf89d47457a9d5b809ab1ca1acdcb42e9dbeea",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Human-robot co-transportation and shared control"
   },
   {
     "key": "adversarial_graph",
@@ -3790,7 +4406,14 @@
     "analysis_date": "2026-09-02",
     "citation": "James Berneburg, Xuan Wang, Xuesu Xiao , and Daigo Shishika. Multi-Robot Coordination in an Adversarial Graph-Traversal Game . 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2025/2025_Multi_Robot_Coordination_in_an_Adversarial_Graph_Traversal_Game__adversarial_graph.pdf",
-    "source_sha256": "a06590eb7ac8f01a005c8e50d3fae54268fbfd4323db68395146410a54456d89"
+    "source_sha256": "a06590eb7ac8f01a005c8e50d3fae54268fbfd4323db68395146410a54456d89",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "theory-planning",
+    "research_line": "TCGRE: team coordination on graphs"
   },
   {
     "key": "mosu",
@@ -3835,7 +4458,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Jing Liang, Kasun Weerakoon, Daeun Song, Senthurbavan Kirubaharan, Xuesu Xiao , and Dinesh Manocha. MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding . Accepted by 19th International Symposium on Experimental Robotics (ISER 2025).",
     "pdf_relative_path": "Conference/2025/2025_MOSU_Autonomous_Long_range_Robot_Navigation_with_Multi_modal_Scene_Understanding__mosu.pdf",
-    "source_sha256": "7b6ce80a1aa6aec0074a60f55dd070fc7c7c50af681794c86373823b15c689d2"
+    "source_sha256": "7b6ce80a1aa6aec0074a60f55dd070fc7c7c50af681794c86373823b15c689d2",
+    "venue": "ISER",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 19th International Symposium on Experimental Robotics (ISER 2025)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "verti_bench",
@@ -3887,7 +4517,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Tong Xu, Chenhui Pan, Madhan B. Rao, Aniket Datar, Anuj Pokhrel, Yuanjie Lu, Xuesu Xiao . Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain . Robotics: Science and Systems (RSS) 2025.",
     "pdf_relative_path": "Conference/2025/2025_Verti_Bench_A_General_and_Scalable_Off_Road_Mobility_Benchmark_for_Vertically_Challenging_Terrain__verti_bench.pdf",
-    "source_sha256": "5f812669b7bffec69dbf5bd25f9da741fdaa0809cef735ae2b62374e0436a1b7"
+    "source_sha256": "5f812669b7bffec69dbf5bd25f9da741fdaa0809cef735ae2b62374e0436a1b7",
+    "venue": "RSS",
+    "venue_kind": "conference",
+    "venue_full": "Robotics: Science and Systems (RSS) 2025",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Code"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "verticoder",
@@ -3932,7 +4573,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Mohammad Nazeri, Aniket Datar, Anuj Pokhrel, Chenhui Pan, Garrett Warnell, and Xuesu Xiao . VertiCoder: Self-Supervised Kinodynamic Representation Learning on Vertically Challenging Terrain . 2025 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2025/2025_VertiCoder_Self_Supervised_Kinodynamic_Representation_Learning_on_Vertically_Challenging_Terrain__verticoder.pdf",
-    "source_sha256": "a43836414c9eecae8d9f96e37d9335494f4f217abb70513cf8e97f75698e685f"
+    "source_sha256": "a43836414c9eecae8d9f96e37d9335494f4f217abb70513cf8e97f75698e685f",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "mgmm",
@@ -3977,7 +4625,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Yuanjie Lu, Dibyendu Das, Erion Plaku, and Xuesu Xiao . Multi-Goal Motion Memory . 2025 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2025/2025_Multi_Goal_Motion_Memory__mgmm.pdf",
-    "source_sha256": "5f85ebc84b6a1c51863a424d7d129792e8624a81f4b128a489eede6a0c9e314c"
+    "source_sha256": "5f85ebc84b6a1c51863a424d7d129792e8624a81f4b128a489eede6a0c9e314c",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Motion memory / experience reuse in planning"
   },
   {
     "key": "gnd",
@@ -4023,7 +4680,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Jing Liang, Dibyendu Das, Daeun Song, Md Nahid Hasan Shuvo, Mohammad Durrani, Karthik Taranath, Ivan Penskiy, Dinesh Manocha, and Xuesu Xiao . GND: Global Navigation Dataset with Multi-Modal Perception and Multi-Category Traversability in Outdoor Campus Environments . 2025 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2025/2025_GND_Global_Navigation_Dataset_with_Multi_Modal_Perception_and_Multi_Category_Traversability_in_Outdoor_Campus_Environments__gnd.pdf",
-    "source_sha256": "ac6e496e1a3d62eb62e034de8e00e3d0f394f712b039e0763d42b87bda66371e"
+    "source_sha256": "ac6e496e1a3d62eb62e034de8e00e3d0f394f712b039e0763d42b87bda66371e",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "vw_chrono",
@@ -4069,7 +4736,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Tong Xu, Chenhui Pan, and Xuesu Xiao . Reinforcement Learning for Wheeled Mobility on Vertically Challenging Terrain . 2024 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR).",
     "pdf_relative_path": "Conference/2024/2024_Reinforcement_Learning_for_Wheeled_Mobility_on_Vertically_Challenging_Terrain__vw_chrono.pdf",
-    "source_sha256": "16afa5df326654899fe6ae32f12996ea79335bf88db61490ba9d11eda770b858"
+    "source_sha256": "16afa5df326654899fe6ae32f12996ea79335bf88db61490ba9d11eda770b858",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "simulator",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "deployment_learning_adaptation",
@@ -4120,7 +4794,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Abhishek Paudel, Xuesu Xiao , and Gregory J. Stein. Multi-Strategy Deployment-Time Learning and Adaptation for Navigation under Uncertainty . 2024 Conference on Robot Learning (CoRL).",
     "pdf_relative_path": "Conference/2024/2024_Multi_Strategy_Deployment_Time_Learning_and_Adaptation_for_Navigation_under_Uncertainty__deployment_learning_adaptation.pdf",
-    "source_sha256": "361e17e0db2962dc3c1740e6413dea5eaedb7fd5dbee3162816a838873fecada"
+    "source_sha256": "361e17e0db2962dc3c1740e6413dea5eaedb7fd5dbee3162816a838873fecada",
+    "venue": "CoRL",
+    "venue_kind": "conference",
+    "venue_full": "2024 Conference on Robot Learning (CoRL)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "standalone"
   },
   {
     "key": "tal",
@@ -4165,7 +4846,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Aniket Datar, Chenhui Pan, Mohammad Nazeri, Anuj Pokhrel, and Xuesu Xiao . Terrain-Attentive Learning for Efficient 6-DoF Kinodynamic Modeling on Vertically Challenging Terrain . 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2024/2024_Terrain_Attentive_Learning_for_Efficient_6_DoF_Kinodynamic_Modeling_on_Vertically_Challenging_Terrain__tal.pdf",
-    "source_sha256": "0b0efbf1ca1fb6d3caee2e3f78bb384cf2d0377efee97b33e93d865fc1a229ff"
+    "source_sha256": "0b0efbf1ca1fb6d3caee2e3f78bb384cf2d0377efee97b33e93d865fc1a229ff",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Poster"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "vanp",
@@ -4211,7 +4902,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Mohammad Nazeri, Junzhe Wang, Amirreza Payandeh, and Xuesu Xiao . VANP: Learning Where to See for Navigation with Self-Supervised Vision-Action Pre-Training . 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2024/2024_VANP_Learning_Where_to_See_for_Navigation_with_Self_Supervised_Vision_Action_Pre_Training__vanp.pdf",
-    "source_sha256": "63a34f01514a45884e7ac087ab6a545509803c94d0477f1d0b24fa52d5392dba"
+    "source_sha256": "63a34f01514a45884e7ac087ab6a545509803c94d0477f1d0b24fa52d5392dba",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Code",
+      "Poster"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "tcgre",
@@ -4256,7 +4958,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Yanlin Zhou, Manshi Limbu, Gregory J. Stein, Xuan Wang, Daigo Shishika, and Xuesu Xiao . Team Coordination on Graphs: Problem, Analysis, and Algorithms . 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2024/2024_Team_Coordination_on_Graphs_Problem_Analysis_and_Algorithms__tcgre.pdf",
-    "source_sha256": "a124e7f9cb410d915bc8b73b09ae9c092041d2de9e0846135633a702b9fcb13f"
+    "source_sha256": "a124e7f9cb410d915bc8b73b09ae9c092041d2de9e0846135633a702b9fcb13f",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "theory-planning",
+    "research_line": "TCGRE: team coordination on graphs"
   },
   {
     "key": "dtg",
@@ -4301,7 +5012,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Jing Liang, Amirreza Payandeh, Daeun Song, Xuesu Xiao , and Dinesh Manocha. DTG : Diffusion-based Trajectory Generation for Mapless Global Navigation . 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2024/2024_DTG_Diffusion_based_Trajectory_Generation_for_Mapless_Global_Navigation__dtg.pdf",
-    "source_sha256": "3a24bef69030589b13392a03e4fc58438dca8b78d707026701193d6b8376b727"
+    "source_sha256": "3a24bef69030589b13392a03e4fc58438dca8b78d707026701193d6b8376b727",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Code"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "bi_cl",
@@ -4346,7 +5067,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Zechen Hu, Daigo Shishika, Xuesu Xiao , and Xuan Wang. Bi-CL: A Reinforcement Learning Framework for Robots Coordination Through Bi-level Optimization . 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2024/2024_Bi_CL_A_Reinforcement_Learning_Framework_for_Robots_Coordination_Through_Bi_level_Optimization__bi_cl.pdf",
-    "source_sha256": "487409e0fcaa5b233a247f8c1f005e25d3baf1684d7b5cfcfe429893cd5e12cb"
+    "source_sha256": "487409e0fcaa5b233a247f8c1f005e25d3baf1684d7b5cfcfe429893cd5e12cb",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "TCGRE: team coordination on graphs"
   },
   {
     "key": "team_coordination_adversaries",
@@ -4391,7 +5121,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Zechen Hu, Manshi Limbu, Daigo Shishika, Xuesu Xiao , and Xuan Wang. Learning Coordinated Maneuver in Adversarial Environments . 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2024/2024_Learning_Coordinated_Maneuver_in_Adversarial_Environments__team_coordination_adversaries.pdf",
-    "source_sha256": "3b54e19bc4b7f4dfbabce89d3967a9ba884f104fa2fbbfac3a65ee517f5801ac"
+    "source_sha256": "3b54e19bc4b7f4dfbabce89d3967a9ba884f104fa2fbbfac3a65ee517f5801ac",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "TCGRE: team coordination on graphs"
   },
   {
     "key": "vw",
@@ -4437,7 +5176,19 @@
     "analysis_date": "2026-09-02",
     "citation": "Aniket Datar, Chenhui Pan, Mohammad Nazeri, and Xuesu Xiao . Toward Wheeled Mobility on Vertically Challenging Terrain: Platforms, Datasets, and Algorithms . 2024 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2024/2024_Toward_Wheeled_Mobility_on_Vertically_Challenging_Terrain_Platforms_Datasets_and_Algorithms__vw.pdf",
-    "source_sha256": "51bc46b9443ee1df8b42ed8b36cbe91537b11b8e1dfef04838d7922fc57ed509"
+    "source_sha256": "51bc46b9443ee1df8b42ed8b36cbe91537b11b8e1dfef04838d7922fc57ed509",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Poster",
+      "Presentation"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
   },
   {
     "key": "mm",
@@ -4482,7 +5233,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Dibyendu Das, Yuanjie Lu, Erion Plaku, and Xuesu Xiao . Motion Memory: Leveraging Past Experiences to Accelerate Future Motion Planning . 2024 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2024/2024_Motion_Memory_Leveraging_Past_Experiences_to_Accelerate_Future_Motion_Planning__mm.pdf",
-    "source_sha256": "3ac286033e76e8f5c3e599a29d7d89bfc3e9886f38c7370be8af0f9bec989706"
+    "source_sha256": "3ac286033e76e8f5c3e599a29d7d89bfc3e9886f38c7370be8af0f9bec989706",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Poster",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Motion memory / experience reuse in planning"
   },
   {
     "key": "team_coordination_rl",
@@ -4527,7 +5289,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Manshi Limbu, Zechen Hu, Xuan Wang, Daigo Shishika, and Xuesu Xiao . Scaling Team Coordination on Graphs with Reinforcement Learning . 2024 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2024/2024_Scaling_Team_Coordination_on_Graphs_with_Reinforcement_Learning__team_coordination_rl.pdf",
-    "source_sha256": "cc6fde82fd61db68b775e8cc0a8db8e82eb1ec49a444656ba8a24e60fb83f513"
+    "source_sha256": "cc6fde82fd61db68b775e8cc0a8db8e82eb1ec49a444656ba8a24e60fb83f513",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Poster",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "TCGRE: team coordination on graphs"
   },
   {
     "key": "hybrid_social_nav",
@@ -4572,7 +5345,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Amir Hossain Raj, Zichao Hu, Haresh Karnan, Rohan Chandra, Amirreza Payandeh, Luisa Mao, Peter Stone, Joydeep Biswas, and Xuesu Xiao . Rethinking Social Robot Navigation: Leveraging the Best of Two Worlds . 2024 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2024/2024_Rethinking_Social_Robot_Navigation_Leveraging_the_Best_of_Two_Worlds__hybrid_social_nav.pdf",
-    "source_sha256": "ba93cb6821e7865fb5e4b36085f61901ed16ea823b6b274f13e7e6faf0c17851"
+    "source_sha256": "ba93cb6821e7865fb5e4b36085f61901ed16ea823b6b274f13e7e6faf0c17851",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Poster",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "dexterous_locomotion",
@@ -4617,7 +5401,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Zifan Xu, Amir Hossain Raj, Xuesu Xiao , and Peter Stone. Dexterous Legged Locomotion in Confined 3D Spaces with Reinforcement Learning . 2024 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2024/2024_Dexterous_Legged_Locomotion_in_Confined_3D_Spaces_with_Reinforcement_Learning__dexterous_locomotion.pdf",
-    "source_sha256": "ea472cc96adb70530b95a4ddc17020f2c5052e69225130c31117a126d49768db"
+    "source_sha256": "ea472cc96adb70530b95a4ddc17020f2c5052e69225130c31117a126d49768db",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Poster",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Legged locomotion and curriculum learning"
   },
   {
     "key": "mtg",
@@ -4664,7 +5459,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Jing Liang, Peng Gao, Xuesu Xiao , Adarsh Jagan Sathyamoorthy, Mohamed Elnoor, Ming C. Lin, and Dinesh Manocha. MTG: Mapless Trajectory Generator with Traversability Coverage for Outdoor Navigation . 2024 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2024/2024_MTG_Mapless_Trajectory_Generator_with_Traversability_Coverage_for_Outdoor_Navigation__mtg.pdf",
-    "source_sha256": "01b4a52af9513d7ebd49b16350ad6b429db6874a6ac9e77219211952397c26ac"
+    "source_sha256": "01b4a52af9513d7ebd49b16350ad6b429db6874a6ac9e77219211952397c26ac",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "fetch_icps",
@@ -4710,7 +5514,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Al Jaber Mahmud, Duc M. Nguyen, Filipe Veiga, Xuesu Xiao , and Xuan Wang. Human Uncertainty-Aware MPC for Enhanced Human-Robot Collaborative Manipulation . 2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS). Best Paper Finalist at ICRA 2024 Workshop on Exploring Role Allocation in Human-Robot Co-Manipulation .",
     "pdf_relative_path": "Conference/2024/2024_Human_Uncertainty_Aware_MPC_for_Enhanced_Human_Robot_Collaborative_Manipulation__fetch_icps.pdf",
-    "source_sha256": "c4e565632f19a3f98b02b2394805ccba4c5e5a1a0854c8faf58af27315e63023"
+    "source_sha256": "c4e565632f19a3f98b02b2394805ccba4c5e5a1a0854c8faf58af27315e63023",
+    "venue": "ICPS",
+    "venue_kind": "conference",
+    "venue_full": "2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS). Best Paper Finalist at ICRA 2024 Workshop on Exploring Role Allocation in Human-Robot Co-Manipulation",
+    "awards": [
+      "Best Paper Finalist at ICRA 2024 Workshop on Exploring Role Allocation in Human-Robot Co-Manipulation"
+    ],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Human-robot co-transportation and shared control"
   },
   {
     "key": "llm_susceptibility",
@@ -4771,7 +5584,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Amirreza Payandeh, Dan Pluth, Jordan Hosier, Xuesu Xiao , and Vijay K. Gurbani. How susceptible are LLMs to Logical Fallacies? . 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).",
     "pdf_relative_path": "Conference/2024/2024_How_susceptible_are_LLMs_to_Logical_Fallacies__llm_susceptibility.pdf",
-    "source_sha256": "e4a4d17eac5405ea244b2ad69867e04e745b9553090bc0bc053fde542c12259e"
+    "source_sha256": "e4a4d17eac5405ea244b2ad69867e04e745b9553090bc0bc053fde542c12259e",
+    "venue": "LREC-COLING",
+    "venue_kind": "conference",
+    "venue_full": "2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)",
+    "awards": [],
+    "artifacts": [
+      "Code"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "standalone"
   },
   {
     "key": "cbm",
@@ -4830,7 +5652,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Zizhao Wang, Caroline Wang, Xuesu Xiao , Yuke Zhu, and Peter Stone. Building Minimal and Reusable Causal State Abstractions for Reinforcement Learning . 2024 AAAI Conference on Artificial Intelligence (AAAI).",
     "pdf_relative_path": "Conference/2024/2024_Building_Minimal_and_Reusable_Causal_State_Abstractions_for_Reinforcement_Learning__cbm.pdf",
-    "source_sha256": "49445a2d955d1c44452fa8508bc9f703f3af72ba653b4b10048f406be84dd3d5"
+    "source_sha256": "49445a2d955d1c44452fa8508bc9f703f3af72ba653b4b10048f406be84dd3d5",
+    "venue": "AAAI",
+    "venue_kind": "conference",
+    "venue_full": "2024 AAAI Conference on Artificial Intelligence (AAAI)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Causal state abstraction for RL"
   },
   {
     "key": "vagn",
@@ -4889,7 +5718,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Shravan Ravi, Shreyas Satewar, Gary Wang, Xuesu Xiao , Garrett Warnell, Joydeep Biswas, and Peter Stone. Visually Adaptive Geometric Navigation . Accepted by 2023 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR).",
     "pdf_relative_path": "Conference/2023/2023_Visually_Adaptive_Geometric_Navigation__vagn.pdf",
-    "source_sha256": "9350f845aa0f0a7c8a5a1aa3bd8ced3e660490e7aec57645caa45398c58f08c4"
+    "source_sha256": "9350f845aa0f0a7c8a5a1aa3bd8ced3e660490e7aec57645caa45398c58f08c4",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "Accepted by 2023 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "standalone"
   },
   {
     "key": "musohu",
@@ -4948,7 +5786,20 @@
     "analysis_date": "2026-09-02",
     "citation": "Duc M. Nguyen, Mohammad Nazeri, Amirreza Payandeh, Aniket Datar, and Xuesu Xiao . Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset . 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Best Paper Award Nomination at 2023 AAAI AI-HRI Fall Symposium .",
     "pdf_relative_path": "Conference/2023/2023_Toward_Human_Like_Social_Robot_Navigation_A_Large_Scale_Multi_Modal_Social_Human_Navigation_Dataset__musohu.pdf",
-    "source_sha256": "38e7b3afc488b22f5f1fe7819aaa04a18158e53d553c55e59f2319ca1d78e8b4"
+    "source_sha256": "38e7b3afc488b22f5f1fe7819aaa04a18158e53d553c55e59f2319ca1d78e8b4",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Best Paper Award Nomination at 2023 AAAI AI-HRI Fall Symposium",
+    "awards": [
+      "Best Paper Award Nomination at 2023 AAAI AI-HRI Fall Symposium"
+    ],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Poster"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "team_coordination",
@@ -5000,7 +5851,19 @@
     "analysis_date": "2026-09-02",
     "citation": "Manshi Limbu, Zechen Hu, Sara Oughourli, Xuan Wang, Xuesu Xiao , and Daigo Shishika. Team Coordination on Graphs with State-Dependent Edge Costs . 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Best Paper Award on Cognitive Robotics Finalist .",
     "pdf_relative_path": "Conference/2023/2023_Team_Coordination_on_Graphs_with_State_Dependent_Edge_Costs__team_coordination.pdf",
-    "source_sha256": "6529983cf19683a51fa6b3549e0e35c7fe8c125013abf2a9dd263a33b94f7b3c"
+    "source_sha256": "6529983cf19683a51fa6b3549e0e35c7fe8c125013abf2a9dd263a33b94f7b3c",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Best Paper Award on Cognitive Robotics Finalist",
+    "awards": [
+      "Best Paper Award on Cognitive Robotics Finalist"
+    ],
+    "artifacts": [
+      "Video",
+      "Poster"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "TCGRE: team coordination on graphs"
   },
   {
     "key": "navbenchmark",
@@ -5052,7 +5915,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Zifan Xu, Bo Liu, Xuesu Xiao , Anirudh Nair, and Peter Stone. Benchmarking Reinforcement Learning Techniques for Autonomous Navigation . 2023 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2023/2023_Benchmarking_Reinforcement_Learning_Techniques_for_Autonomous_Navigation__navbenchmark.pdf",
-    "source_sha256": "2865eec4bf3f3e15a960127e218579002d2712fd4e0162b6bfa87fb5b03e34a2"
+    "source_sha256": "2865eec4bf3f3e15a960127e218579002d2712fd4e0162b6bfa87fb5b03e34a2",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Code"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "BARN: constrained-navigation benchmarking and challenge"
   },
   {
     "key": "phhp",
@@ -5104,7 +5978,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Jin-Soo Park, Xuesu Xiao , Garrett Warnell, Harel Yedidsion, and Peter Stone. Learning Perceptual Hallucination for Multi-Robot Navigation in Narrow Hallways . 2023 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2023/2023_Learning_Perceptual_Hallucination_for_Multi_Robot_Navigation_in_Narrow_Hallways__phhp.pdf",
-    "source_sha256": "5e586122a8a5b88bbb10054894b948ec0956930d0a667ff65f20a88c2cee0240"
+    "source_sha256": "5e586122a8a5b88bbb10054894b948ec0956930d0a667ff65f20a88c2cee0240",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "LfH: learning from hallucination"
   },
   {
     "key": "performer_mpc",
@@ -5168,7 +6051,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Tingnan Zhang, Krzysztof Choromanski, Edward Lee, Anthony Francis, Jake Varley, Stephen Tu, Sumeet Singh, Peng Xu, Fei Xia, Sven Mikael Persson, Dmitry Kalashnikov, Leila Takayama, Roy Frostig, Jie Tan, Carolina Parada, and Vikas Sindhwani. Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation . 2022 Conference on Robot Learning (CoRL).",
     "pdf_relative_path": "Conference/2022/2022_Learning_Model_Predictive_Controllers_with_Real_Time_Attention_for_Real_World_Navigation__performer_mpc.pdf",
-    "source_sha256": "7a6a9863c3e00c29fe2f3b575c34e474d07bf4a4a7ca0c09d81b8077595f68ca"
+    "source_sha256": "7a6a9863c3e00c29fe2f3b575c34e474d07bf4a4a7ca0c09d81b8077595f68ca",
+    "venue": "CoRL",
+    "venue_kind": "conference",
+    "venue_full": "2022 Conference on Robot Learning (CoRL)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "standalone"
   },
   {
     "key": "dynabarn",
@@ -5220,7 +6113,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Anirudh Nair, Fulin Jiang, Kang Hou, Zifan Xu, Shuozhe Li, Xuesu Xiao , and Peter Stone. DynaBARN: Benchmarking Metric Ground Navigation in Dynamic Environments . 2022 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR).",
     "pdf_relative_path": "Conference/2022/2022_DynaBARN_Benchmarking_Metric_Ground_Navigation_in_Dynamic_Environments__dynabarn.pdf",
-    "source_sha256": "3f160608c64b53c339661950ae829f76ef0276ce122fcdd59ff3fb93e047b66a"
+    "source_sha256": "3f160608c64b53c339661950ae829f76ef0276ce122fcdd59ff3fb93e047b66a",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2022 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "awards": [],
+    "artifacts": [
+      "Website",
+      "Code",
+      "Dataset"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "BARN: constrained-navigation benchmarking and challenge"
   },
   {
     "key": "optim-fkd",
@@ -5278,7 +6182,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Pranav Atreya, Haresh Karnan, Kavan Singh Sikand, Xuesu Xiao , Sadegh Rabiee, and Joydeep Biswas. High-Speed Accurate Robot Control using Learned Forward Kinodynamics and Non-linear Least Squares Optimization . 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2022/2022_High_Speed_Accurate_Robot_Control_using_Learned_Forward_Kinodynamics_and_Non_linear_Least_Squares_Optimization__optim_fkd.pdf",
-    "source_sha256": "bc5909ef45cc6f22eeff41bc5c92a81b255a2edaaf323001f94eca92534a7369"
+    "source_sha256": "bc5909ef45cc6f22eeff41bc5c92a81b255a2edaaf323001f94eca92534a7369",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "IKD: high-speed off-road inverse kinodynamics"
   },
   {
     "key": "vi-ikd",
@@ -5331,7 +6244,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Haresh Karnan, Kavan Singh Sikand, Pranav Atreya, Sadegh Rabiee, Xuesu Xiao , Garrett Warnell, Peter Stone, and Joydeep Biswas. VI-IKD: High-Speed Accurate Off-Road Navigation using Learned Visual-Inertial Inverse Kinodynamics . 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2022/2022_VI_IKD_High_Speed_Accurate_Off_Road_Navigation_using_Learned_Visual_Inertial_Inverse_Kinodynamics__vi_ikd.pdf",
-    "source_sha256": "8f4a02de9d01b799fb3be351174bdaa321801f4aac202b6dfc91572d24e48086"
+    "source_sha256": "8f4a02de9d01b799fb3be351174bdaa321801f4aac202b6dfc91572d24e48086",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "IKD: high-speed off-road inverse kinodynamics"
   },
   {
     "key": "cdl",
@@ -5386,7 +6308,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Zizhao Wang, Xuesu Xiao , Zifan Xu, Yuke Zhu, and Peter Stone. Causal Dynamics Learning for Task-Independent State Abstraction . 2022 International Conference on Machine Learning (ICML).",
     "pdf_relative_path": "Conference/2022/2022_Causal_Dynamics_Learning_for_Task_Independent_State_Abstraction__cdl.pdf",
-    "source_sha256": "ce4cf3a42d3d781c61c217c277d3ad30c4f3b5d3794e5ccd9cf0b99ae7046a6a"
+    "source_sha256": "ce4cf3a42d3d781c61c217c277d3ad30c4f3b5d3794e5ccd9cf0b99ae7046a6a",
+    "venue": "ICML",
+    "venue_kind": "conference",
+    "venue_full": "2022 International Conference on Machine Learning (ICML)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Causal state abstraction for RL"
   },
   {
     "key": "voila",
@@ -5438,7 +6367,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Haresh Karnan, Garrett Warnell, Xuesu Xiao , and Peter Stone. VOILA: Visual-Observation-Only Imitation Learning for Autonomous Navigation . 2022 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2022/2022_VOILA_Visual_Observation_Only_Imitation_Learning_for_Autonomous_Navigation__voila.pdf",
-    "source_sha256": "44acaf324d24272e241499e009cd55197365a3812c84e9cc6fb69579cd93f534"
+    "source_sha256": "44acaf324d24272e241499e009cd55197365a3812c84e9cc6fb69579cd93f534",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2022 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "vrl-pap",
@@ -5491,7 +6429,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Kavan Singh Sikand, Sadegh Rabiee, Adam Uccello, Xuesu Xiao , Garrett Warnell, and Joydeep Biswas. Visual Representation Learning for Preference-Aware Path Planning . 2022 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2022/2022_Visual_Representation_Learning_for_Preference_Aware_Path_Planning__vrl_pap.pdf",
-    "source_sha256": "10a649666343db06aa1a064c80cc68c39696e386e5cec1f55837021aaca2f042"
+    "source_sha256": "10a649666343db06aa1a064c80cc68c39696e386e5cec1f55837021aaca2f042",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2022 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "IKD: high-speed off-road inverse kinodynamics"
   },
   {
     "key": "e2e_params",
@@ -5549,7 +6496,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Zifan Xu, Xuesu Xiao , Garrett Warnell, Anirudh Nair, and Peter Stone. Machine Learning Methods for Local Motion Planning: A Study of End-to-End vs. Parameter Learning . 2021 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR).",
     "pdf_relative_path": "Conference/2021/2021_Machine_Learning_Methods_for_Local_Motion_Planning_A_Study_of_End_to_End_vs_Parameter_Learning__e2e_params.pdf",
-    "source_sha256": "be0964b94724a624749e800438d332a5b60e246c6c7faf77335f756f8cf13688"
+    "source_sha256": "be0964b94724a624749e800438d332a5b60e246c6c7faf77335f756f8cf13688",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2021 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "survey-position",
+    "research_line": "APPL: adaptive planner parameter learning"
   },
   {
     "key": "lflh",
@@ -5601,7 +6557,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Zizhao Wang, Xuesu Xiao , Alexander J Nettekoven, Kadhiravan Umasankar, Anika Singh, Sriram Bommakanti, Ufuk Topcu, and Peter Stone. From Agile Ground to Aerial Navigation: Learning from Learned Hallucination . 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2021/2021_From_Agile_Ground_to_Aerial_Navigation_Learning_from_Learned_Hallucination__lflh.pdf",
-    "source_sha256": "49fc9be0add9114a4ea31cc090069288758fe854b75500177797340a13b673c4"
+    "source_sha256": "49fc9be0add9114a4ea31cc090069288758fe854b75500177797340a13b673c4",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "LfH: learning from hallucination"
   },
   {
     "key": "tocpur",
@@ -5659,7 +6626,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Bo Liu, Xuesu Xiao , and Peter Stone. Team Orienteering Coverage Planning with Uncertain Reward . 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2021/2021_Team_Orienteering_Coverage_Planning_with_Uncertain_Reward__tocpur.pdf",
-    "source_sha256": "1c94dabdf2efc07c6cf35f717b7d28f012082ee96eeb967a49f0da52a117ef7c"
+    "source_sha256": "1c94dabdf2efc07c6cf35f717b7d28f012082ee96eeb967a49f0da52a117ef7c",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "TCGRE: team coordination on graphs"
   },
   {
     "key": "sober",
@@ -5711,7 +6688,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Bo Liu, and Peter Stone. Agile Robot Navigation through Hallucinated Learning and Sober Deployment . 2021 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2021/2021_Agile_Robot_Navigation_through_Hallucinated_Learning_and_Sober_Deployment__sober.pdf",
-    "source_sha256": "f36ccfbfa89b2211db141b3e7e7be5302cc9a2e99fd395c8a69a1cbae6cdd130"
+    "source_sha256": "f36ccfbfa89b2211db141b3e7e7be5302cc9a2e99fd395c8a69a1cbae6cdd130",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2021 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website",
+      "Presentation"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "LfH: learning from hallucination"
   },
   {
     "key": "appli",
@@ -5763,7 +6751,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Zizhao Wang, Xuesu Xiao , Bo Liu, Garrett Warnell, and Peter Stone. APPLI: Adaptive Planner Parameter Learning from Interventions . 2021 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2021/2021_APPLI_Adaptive_Planner_Parameter_Learning_from_Interventions__appli.pdf",
-    "source_sha256": "3decbe3ed0c14ae0e6348a1901038eea61f591916c80f43d2f8ecb85566eb543"
+    "source_sha256": "3decbe3ed0c14ae0e6348a1901038eea61f591916c80f43d2f8ecb85566eb543",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2021 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "APPL: adaptive planner parameter learning"
   },
   {
     "key": "applr",
@@ -5815,7 +6813,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Zifan Xu, Gauraang Dhamankar, Anirudh Nair, Xuesu Xiao , Garrett Warnell, Bo Liu, Zizhao Wang, and Peter Stone. APPLR: Adaptive Planner Parameter Learning from Reinforcement . 2021 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2021/2021_APPLR_Adaptive_Planner_Parameter_Learning_from_Reinforcement__applr.pdf",
-    "source_sha256": "00b8a3460dc7e16573954514340918654d568ca302d1de7b7f1a3aebde478470"
+    "source_sha256": "00b8a3460dc7e16573954514340918654d568ca302d1de7b7f1a3aebde478470",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2021 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Website"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "APPL: adaptive planner parameter learning"
   },
   {
     "key": "navdiffdataset_ssrr",
@@ -5867,7 +6875,18 @@
     "analysis_date": "2026-09-02",
     "citation": "Daniel Perille, Abigail Truong, Xuesu Xiao , and Peter Stone. Benchmarking Metric Ground Navigation . 2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR).",
     "pdf_relative_path": "Conference/2020/2020_Benchmarking_Metric_Ground_Navigation__navdiffdataset_ssrr.pdf",
-    "source_sha256": "d922df6cd32e1de1384b89a1fd9dc36a2d84f85f123e9a70bae7f250af16f05c"
+    "source_sha256": "d922df6cd32e1de1384b89a1fd9dc36a2d84f85f123e9a70bae7f250af16f05c",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Dataset",
+      "Presentation"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "BARN: constrained-navigation benchmarking and challenge"
   },
   {
     "key": "hallway_icsr",
@@ -5930,7 +6949,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Justin Hart, Reuth Mirsky, Xuesu Xiao , Stone Tejeda, Bonny Mahajan, Jamin Goo, Kathryn Baldauf, Sydney Owen, and Peter Stone. Using Human-Inspired Signals to Disambiguate Navigational Intentions . 12th International Conference on Social Robotics (ICSR) 2020.",
     "pdf_relative_path": "Conference/2020/2020_Using_Human_Inspired_Signals_to_Disambiguate_Navigational_Intentions__hallway_icsr.pdf",
-    "source_sha256": "f37402ff5e96389cc626b76bdcbb897e71358ff4182e63bfc4e67da778e51112"
+    "source_sha256": "f37402ff5e96389cc626b76bdcbb897e71358ff4182e63bfc4e67da778e51112",
+    "venue": "ICSR",
+    "venue_kind": "conference",
+    "venue_full": "12th International Conference on Social Robotics (ICSR) 2020",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "human-study",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "benchmark_ssrr",
@@ -5989,7 +7017,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Jan Dufek, and Robin Murphy. Benchmarking Tether-based UAV Motion Primitives . 2019 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR).",
     "pdf_relative_path": "Conference/2019/2019_Benchmarking_Tether_based_UAV_Motion_Primitives__benchmark_ssrr.pdf",
-    "source_sha256": "fff37a92806769de0dc8443d149870281ccf1469057b7f0d07c64c81777fa2fd"
+    "source_sha256": "fff37a92806769de0dc8443d149870281ccf1469057b7f0d07c64c81777fa2fd",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2019 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "risk_ssrr",
@@ -6047,7 +7082,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Jan Dufek, and Robin Murphy. Explicit Motion Risk Representation . 2019 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR).",
     "pdf_relative_path": "Conference/2019/2019_Explicit_Motion_Risk_Representation__risk_ssrr.pdf",
-    "source_sha256": "438dba8e7018a2aa607a25fd0128eb4c9c5e00843e4621d283e228f3608116eb"
+    "source_sha256": "438dba8e7018a2aa607a25fd0128eb4c9c5e00843e4621d283e228f3608116eb",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2019 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "theory-planning",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "tether_fsr",
@@ -6107,7 +7151,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Jan Dufek, and Robin Murphy. Autonomous Visual Assistance for Robot Operations Using a Tethered UAV . 12th Conference on Field and Service Robotics (FSR) 2019.",
     "pdf_relative_path": "Conference/2019/2019_Autonomous_Visual_Assistance_for_Robot_Operations_Using_a_Tethered_UAV__tether_fsr.pdf",
-    "source_sha256": "078161d0b2271cc61a773c45c8453ab3061bf9fd2e8ecb59b29d983b1600454d"
+    "source_sha256": "078161d0b2271cc61a773c45c8453ab3061bf9fd2e8ecb59b29d983b1600454d",
+    "venue": "FSR",
+    "venue_kind": "conference",
+    "venue_full": "12th Conference on Field and Service Robotics (FSR) 2019",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "hardware-field",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "planning_iros",
@@ -6161,7 +7214,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Jan Dufek, Mohamed Suhail, and Robin Murphy. Motion Planning for a UAV with a Straight or Kinked Tether . 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2018/2018_Motion_Planning_for_a_UAV_with_a_Straight_or_Kinked_Tether__planning_iros.pdf",
-    "source_sha256": "4cd4cd50f7b806d52dd9d9e4c2bd350ce5682736c0c6b1782f867743047048d2"
+    "source_sha256": "4cd4cd50f7b806d52dd9d9e4c2bd350ce5682736c0c6b1782f867743047048d2",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "theory-planning",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "battery_iros",
@@ -6222,7 +7284,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Kshitij Tiwari , Xuesu Xiao , and Nak Young Chong. Estimating Achievable Range of Ground Robots Operating on Single Battery Discharge for Operational Efficacy Amelioration . 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2018/2018_Estimating_Achievable_Range_of_Ground_Robots_Operating_on_Single_Battery_Discharge_for_Operational_Efficacy_Amelioration__battery_iros.pdf",
-    "source_sha256": "778064a0fa950045339dbfad37f50426e35b0ad5486dae4e2e812acdef63ec70"
+    "source_sha256": "778064a0fa950045339dbfad37f50426e35b0ad5486dae4e2e812acdef63ec70",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "hardware-field",
+    "research_line": "Energy and achievable range"
   },
   {
     "key": "localization_ssrr",
@@ -6275,7 +7344,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Yiming Fan, Jan Dufek, and Robin Murphy. Indoor UAV Localization Using a Tether . 2018 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). Best Paper Finalist .",
     "pdf_relative_path": "Conference/2018/2018_Indoor_UAV_Localization_Using_a_Tether__localization_ssrr.pdf",
-    "source_sha256": "7eef39d54b4fa730b45481c0e9520f400eff5a99f346210edef8e25548b17e4c"
+    "source_sha256": "7eef39d54b4fa730b45481c0e9520f400eff5a99f346210edef8e25548b17e4c",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2018 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). Best Paper Finalist",
+    "awards": [
+      "Best Paper Finalist"
+    ],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "bsn_biorob",
@@ -6335,7 +7413,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao and Shuayb Zarar. A Wearable System For Articulated Human Pose Tracking Under Uncertainty of Sensor Placement . 2018 IEEE International Conference on Biomedical Robotics and Biomechatronics (Biorob).",
     "pdf_relative_path": "Conference/2018/2018_A_Wearable_System_For_Articulated_Human_Pose_Tracking_Under_Uncertainty_of_Sensor_Placement__bsn_biorob.pdf",
-    "source_sha256": "c1da701c075766e15417f3591caf674a1d9eb3ada02ffa9743b855b5e5153f50"
+    "source_sha256": "c1da701c075766e15417f3591caf674a1d9eb3ada02ffa9743b855b5e5153f50",
+    "venue": "BioRob",
+    "venue_kind": "conference",
+    "venue_full": "2018 IEEE International Conference on Biomedical Robotics and Biomechatronics (Biorob)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Wearable inertial pose tracking (industry era)"
   },
   {
     "key": "mocap_icra",
@@ -6388,7 +7475,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao and Shuayb Zarar. Machine Learning for Placement-insensitive Inertial Motion Capture . 2018 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2018/2018_Machine_Learning_for_Placement_insensitive_Inertial_Motion_Capture__mocap_icra.pdf",
-    "source_sha256": "c36e0a2402bc2e3c456a7dacf8c36a15c4bdfd289d9e1087870f2606defb8442"
+    "source_sha256": "c36e0a2402bc2e3c456a7dacf8c36a15c4bdfd289d9e1087870f2606defb8442",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Wearable inertial pose tracking (industry era)"
   },
   {
     "key": "concealment_bsn",
@@ -6440,7 +7536,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao and Shuayb Zarar. Packet Loss Concealment with Recurrent Neural Networks for Wireless Inertial Pose Tracking . 2018 IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN).",
     "pdf_relative_path": "Conference/2018/2018_Packet_Loss_Concealment_with_Recurrent_Neural_Networks_for_Wireless_Inertial_Pose_Tracking__concealment_bsn.pdf",
-    "source_sha256": "21fb9d08542757cbb916412802baeb83e8701684081e8fac43587935e465df70"
+    "source_sha256": "21fb9d08542757cbb916412802baeb83e8701684081e8fac43587935e465df70",
+    "venue": "BSN",
+    "venue_kind": "conference",
+    "venue_full": "2018 IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "algorithm",
+    "research_line": "Wearable inertial pose tracking (industry era)"
   },
   {
     "key": "servoing_ssrr",
@@ -6493,7 +7596,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Jan Dufek, and Robin Murphy. Visual Servoing for Teleoperation using a Tethered UAV . 2017 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR).",
     "pdf_relative_path": "Conference/2017/2017_Visual_Servoing_for_Teleoperation_using_a_Tethered_UAV__servoing_ssrr.pdf",
-    "source_sha256": "e523be60949165c11bfe8a7a93bce22b7b4620d80423d80c393d0fa6150c2c35"
+    "source_sha256": "e523be60949165c11bfe8a7a93bce22b7b4620d80423d80c393d0fa6150c2c35",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2017 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "pose_ssrr",
@@ -6553,7 +7665,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Jan Dufek, Xuesu Xiao , and Robin Murphy. Visual Pose Stabilization of Tethered Small Unmanned Aerial System to Assist Drowning Victim Recovery . 2017 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR).",
     "pdf_relative_path": "Conference/2017/2017_Visual_Pose_Stabilization_of_Tethered_Small_Unmanned_Aerial_System_to_Assist_Drowning_Victim_Recovery__pose_ssrr.pdf",
-    "source_sha256": "4deac38cb9e59c80c2a470dc77408e003325b0e26bd6c8a1557e2bd5bcd2b260"
+    "source_sha256": "4deac38cb9e59c80c2a470dc77408e003325b0e26bd6c8a1557e2bd5bcd2b260",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2017 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "emily_iros",
@@ -6607,7 +7728,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Jan Dufek, and Robin Murphy. UAV Assisted USV Visual Navigation for Marine Mass Casualty Incident Response . 2017 IEEE International Conference on Intelligent Robots and Systems (IROS).",
     "pdf_relative_path": "Conference/2017/2017_UAV_Assisted_USV_Visual_Navigation_for_Marine_Mass_Casualty_Incident_Response__emily_iros.pdf",
-    "source_sha256": "88dda1b1f7fbbc9aa89ee6b59de9a383f99e79434893cd1bd01c29f87d50614e"
+    "source_sha256": "88dda1b1f7fbbc9aa89ee6b59de9a383f99e79434893cd1bd01c29f87d50614e",
+    "venue": "IROS",
+    "venue_kind": "conference",
+    "venue_full": "2017 IEEE International Conference on Intelligent Robots and Systems (IROS)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "hardware-field",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "case_ssrr",
@@ -6662,7 +7792,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Robin Murphy, Jan Dufek, Traci Sarmiento, Grant Wilde, Xuesu Xiao , Richard Smith, Sam Allred, Adam Wright, Jeff Braun, Lachlan Mullen, Justin Adams, and Jess Gingrich. Two Case Studies and Gaps Analysis of Flood Assessment for Emergency Management with Small Unmanned Aerial Systems . 2016 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR).",
     "pdf_relative_path": "Conference/2016/2016_Two_Case_Studies_and_Gaps_Analysis_of_Flood_Assessment_for_Emergency_Management_with_Small_Unmanned_Aerial_Systems__case_ssrr.pdf",
-    "source_sha256": "fccf9faf398e381d02cfcd568268cb05bb0d231130063b55e70a28d95dabfd65"
+    "source_sha256": "fccf9faf398e381d02cfcd568268cb05bb0d231130063b55e70a28d95dabfd65",
+    "venue": "SSRR",
+    "venue_kind": "conference",
+    "venue_full": "2016 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "awards": [],
+    "artifacts": [
+      "Dataset"
+    ],
+    "paper_type": "hardware-field",
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
   },
   {
     "key": "snake_icra",
@@ -6715,7 +7854,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Ellen Cappo, Weikun Zhen, Jin Dai, Ke Sun, Chaohui Gong, Matthew J. Travers, and Howie Choset. Locomotive Reduction for Snake Robots . 2015 IEEE International Conference on Robotics and Automation (ICRA).",
     "pdf_relative_path": "Conference/2015/2015_Locomotive_Reduction_for_Snake_Robots__snake_icra.pdf",
-    "source_sha256": "191c3c2c8d2e0d04bd7c9dce2fa8fae165f0f1f9c0758493f97d66a5f24c1e49"
+    "source_sha256": "191c3c2c8d2e0d04bd7c9dce2fa8fae165f0f1f9c0758493f97d66a5f24c1e49",
+    "venue": "ICRA",
+    "venue_kind": "conference",
+    "venue_full": "2015 IEEE International Conference on Robotics and Automation (ICRA)",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "Snake / hyper-redundant robots (early era)"
   },
   {
     "key": "multimodal_social_nav",
@@ -6769,7 +7917,17 @@
     "analysis_date": "2026-09-02",
     "citation": "Bhabaranjan Panigrahi, Amir Hossain Raj, Mohammad Nazeri, and Xuesu Xiao . A Study on Learning Social Robot Navigation with Multimodal Perception . 14th Workshop on Planning, Perception and Navigation for Intelligent Vehicles @IROS 2024.",
     "pdf_relative_path": "Workshops_and_Technical_Reports/2024/2024_A_Study_on_Learning_Social_Robot_Navigation_with_Multimodal_Perception__multimodal_social_nav.pdf",
-    "source_sha256": "a485b4701bd1d431a8da9c7e2c677459324a3f79f7d6aa899d4422f107700cab"
+    "source_sha256": "a485b4701bd1d431a8da9c7e2c677459324a3f79f7d6aa899d4422f107700cab",
+    "venue": "workshop",
+    "venue_kind": "workshop",
+    "venue_full": "14th Workshop on Planning, Perception and Navigation for Intelligent Vehicles @IROS 2024",
+    "awards": [],
+    "artifacts": [
+      "Video",
+      "Code"
+    ],
+    "paper_type": "survey-position",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "ses",
@@ -6821,7 +7979,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Zifan Xu, Anirudh Nair, Xuesu Xiao , and Peter Stone. Learning Real-world Autonomous Navigation by Self-Supervised Environment Synthesis . First Workshop on Photorealistic Image and Environment Synthesis for Robotics (PIES-Rob) @IROS 2023.",
     "pdf_relative_path": "Workshops_and_Technical_Reports/2023/2023_Learning_Real_world_Autonomous_Navigation_by_Self_Supervised_Environment_Synthesis__ses.pdf",
-    "source_sha256": "1eb8d1534aaaa8b87302a80ec9bbe9a9b7d0b964784ea46b3a4a2bb28a7b0fde"
+    "source_sha256": "1eb8d1534aaaa8b87302a80ec9bbe9a9b7d0b964784ea46b3a4a2bb28a7b0fde",
+    "venue": "workshop",
+    "venue_kind": "workshop",
+    "venue_full": "First Workshop on Photorealistic Image and Environment Synthesis for Robotics (PIES-Rob) @IROS 2023",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "algorithm",
+    "research_line": "LfH: learning from hallucination"
   },
   {
     "key": "social_nav_protocol",
@@ -6872,7 +8039,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Sören Pirk, Edward Lee, Xuesu Xiao , Leila Takayama, Anthony Francis, and Alexander Toshev. A Protocol for Validating Social Navigation Policies . Social Robot Navigation: Advances and Evaluation @ICRA 2022.",
     "pdf_relative_path": "Workshops_and_Technical_Reports/2022/2022_A_Protocol_for_Validating_Social_Navigation_Policies__social_nav_protocol.pdf",
-    "source_sha256": "746608353775467db4051f5db3ebb44f67a2b9c833cb7ec9d3a741c30a867c19"
+    "source_sha256": "746608353775467db4051f5db3ebb44f67a2b9c833cb7ec9d3a741c30a867c19",
+    "venue": "workshop",
+    "venue_kind": "workshop",
+    "venue_full": "Social Robot Navigation: Advances and Evaluation @ICRA 2022",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "dataset-benchmark",
+    "research_line": "Social navigation: data, benchmarks, and language reasoning"
   },
   {
     "key": "ticsa",
@@ -6926,7 +8100,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Zizhao Wang, Xuesu Xiao , and Peter Stone. Task-Independent Causal State Abstraction . 4th Robot Learning Workshop: Self-Supervised and Lifelong Learning @NeurIPS 2021.",
     "pdf_relative_path": "Workshops_and_Technical_Reports/2021/2021_Task_Independent_Causal_State_Abstraction__ticsa.pdf",
-    "source_sha256": "0ab85b185684335cb1e2780bdea29a5b5d6f34d9d53c38c9157334cec25f0d84"
+    "source_sha256": "0ab85b185684335cb1e2780bdea29a5b5d6f34d9d53c38c9157334cec25f0d84",
+    "venue": "workshop",
+    "venue_kind": "workshop",
+    "venue_full": "4th Robot Learning Workshop: Self-Supervised and Lifelong Learning @NeurIPS 2021",
+    "awards": [],
+    "artifacts": [
+      "Video"
+    ],
+    "paper_type": "workshop-abstract",
+    "research_line": "Causal state abstraction for RL"
   },
   {
     "key": "compound_icra15_ws",
@@ -6962,7 +8145,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao , Henry Astley, Jin Dai, Weikun Zhen, Chaohui Gong, Daniel Goldman, and Howie Choset. How Compound-Wave Control Alleviates Hyper-Redundant Control Complexity . Workshop on Robotics-inspired Biology @ICRA 2015.",
     "pdf_relative_path": "Workshops_and_Technical_Reports/2015/2015_How_Compound_Wave_Control_Alleviates_Hyper_Redundant_Control_Complexity__compound_icra15_ws.pdf",
-    "source_sha256": "6a5fa6caf860e52947b7f0fc16ee403f00c61fa8bfc4e1322a8645c31dc285ef"
+    "source_sha256": "6a5fa6caf860e52947b7f0fc16ee403f00c61fa8bfc4e1322a8645c31dc285ef",
+    "venue": "workshop",
+    "venue_kind": "workshop",
+    "venue_full": "Workshop on Robotics-inspired Biology @ICRA 2015",
+    "awards": [],
+    "artifacts": [
+      "Poster"
+    ],
+    "paper_type": "workshop-abstract",
+    "research_line": "Snake / hyper-redundant robots (early era)"
   },
   {
     "key": "sss21_appl_tr",
@@ -7004,7 +8196,16 @@
     "analysis_date": "2026-09-02",
     "citation": "Anirudh Nair, Zifan Xu, Gauraang Dhamankar, and Xuesu Xiao . Extended Abstract: Using Parallelized Containers for Reinforcement Learning on Large Computer Clusters . Technical Report 2021.",
     "pdf_relative_path": "Workshops_and_Technical_Reports/2021/2021_Extended_Abstract_Using_Parallelized_Containers_for_Reinforcement_Learning_on_Large_Computer_Clusters__sss21_appl_tr.pdf",
-    "source_sha256": "576cb716ad68bcc5972852e230ffe4b33a302d2cb74b5eeaf3a430f8be6c4aa1"
+    "source_sha256": "576cb716ad68bcc5972852e230ffe4b33a302d2cb74b5eeaf3a430f8be6c4aa1",
+    "venue": "tech report",
+    "venue_kind": "report",
+    "venue_full": "Technical Report 2021",
+    "awards": [],
+    "artifacts": [
+      "Code"
+    ],
+    "paper_type": "tech-report",
+    "research_line": "APPL: adaptive planner parameter learning"
   },
   {
     "key": "energy_utilization",
@@ -7051,7 +8252,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao and William L. \"Red\" Whittaker. Energy Utilization and Energetic Estimation of Achievable Range for Wheeled Mobile Robots Operating on a Single Battery Discharge . tech. report CMU-RI-TR-14-15, Robotics Institute, Carnegie Mellon University, June, 2015.",
     "pdf_relative_path": "Workshops_and_Technical_Reports/2015/2015_Energy_Utilization_and_Energetic_Estimation_of_Achievable_Range_for_Wheeled_Mobile_Robots_Operating_on_a_Single_Battery_Discharge__energy_utilization.pdf",
-    "source_sha256": "e8255585005e61afc56b8b86e0a2510080d0d0c4d08828698b6d5d11349402a1"
+    "source_sha256": "e8255585005e61afc56b8b86e0a2510080d0d0c4d08828698b6d5d11349402a1",
+    "venue": "tech report",
+    "venue_kind": "report",
+    "venue_full": "tech. report CMU-RI-TR-14-15, Robotics Institute, Carnegie Mellon University, June, 2015",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "tech-report",
+    "research_line": "Energy and achievable range"
   },
   {
     "id": 136,
@@ -7527,7 +8735,14 @@
     "analysis_date": "2026-09-02",
     "citation": "Uland Wong, Heather Jones, Steven Huber, Christopher Cunningham, Warren C. Whittaker, Steve McGuire, Xuesu Xiao , Rick Shanor, Ander Solorzano, Tom Carlone, Wennie Tabib, Christopher Greve, Lauren Schneider, Nathan Otten, and William L. \"Red\" Whittaker. Exploration of Planetary Skylights and Tunnels . NASA Technical Report, 2014.",
     "pdf_relative_path": "Workshops_and_Technical_Reports/2014/2014_Exploration_of_Planetary_Skylights_and_Tunnels__nasa.pdf",
-    "source_sha256": "bc52ea94ef94c15d0b3fe3d15edbb8f70192a1828ec69f9c6d4a616875316146"
+    "source_sha256": "bc52ea94ef94c15d0b3fe3d15edbb8f70192a1828ec69f9c6d4a616875316146",
+    "venue": "tech report",
+    "venue_kind": "report",
+    "venue_full": "NASA Technical Report, 2014",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "tech-report",
+    "research_line": "standalone"
   },
   {
     "key": "energy_considerations",
@@ -7594,6 +8809,13 @@
     "analysis_date": "2026-09-02",
     "citation": "Xuesu Xiao and William L. \"Red\" Whittaker. Energy Considerations for Wheeled Mobile Robots Operating on a Single Battery Discharge . tech. report CMU-RI-TR-14-16, Robotics Institute, Carnegie Mellon University, August, 2014.",
     "pdf_relative_path": "Workshops_and_Technical_Reports/2014/2014_Energy_Considerations_for_Wheeled_Mobile_Robots_Operating_on_a_Single_Battery_Discharge__energy_considerations.pdf",
-    "source_sha256": "2773aeea2c3a4e76d2254b3f2f0773b318924d3749382e9871d5ae521fe3b1a8"
+    "source_sha256": "2773aeea2c3a4e76d2254b3f2f0773b318924d3749382e9871d5ae521fe3b1a8",
+    "venue": "tech report",
+    "venue_kind": "report",
+    "venue_full": "tech. report CMU-RI-TR-14-16, Robotics Institute, Carnegie Mellon University, August, 2014",
+    "awards": [],
+    "artifacts": [],
+    "paper_type": "tech-report",
+    "research_line": "Energy and achievable range"
   }
 ]
