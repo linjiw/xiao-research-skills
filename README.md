@@ -8,23 +8,25 @@ This is an independent educational project. It is not affiliated with or endorse
 
 | Skill | Use it for |
 | --- | --- |
-| [xiao-paper-writing](skills/xiao-paper-writing/SKILL.md) | Research questions, experimental design, claim–evidence maps, outlines, abstracts, section revision, claim wording, planning a line of papers, and source-based teaching |
-| [xiao-paper-review](skills/xiao-paper-review/SKILL.md) | Constructive manuscript or research-plan review, evidence checks, numerical interpretation, and prioritized repairs |
+| [xiao-paper-writing](skills/xiao-paper-writing/SKILL.md) | Research questions, competing explanations, discriminating experiments, coherent paper arguments, section drafting, revision, and source-based teaching |
+| [xiao-paper-review](skills/xiao-paper-review/SKILL.md) | Scientific contribution and argument review, evidence checks, numerical interpretation, and prioritized repairs |
 
-The recurring workflow is: identify a concrete bottleneck → explain the changed mechanism → design a discriminating test → make a bounded claim. Dataset, theory, hardware, human-study, survey, and algorithm papers have different evidence obligations.
+The recurring workflow is: identify a consequential question → reason about competing explanations → design an informative test → connect the result to a clear paper argument. Dataset, theory, hardware, human-study, survey, and algorithm papers have different evidence obligations.
 
 ### What each skill carries
 
 | Reference | Answers |
 | --- | --- |
-| `wording.md` (both) | Which verb this evidence licenses, how to fence a claim, what "significant", "safe", "real-time" or "generalizes" costs you, and how to state a number so it cannot be misread |
-| `drafting.md` (writing) | The measured move grammar of titles, abstracts, introductions, related work, methods, results, endings, figures, and rebuttals |
-| `research-design.md` (writing) | Which comparison actually isolates your mechanism, what unit of analysis your claim needs, how much evidence is enough, and how to disclose a baseline's contract |
-| `research-programs.md` (writing) | How a line of papers compounds, what a follow-up has to add to earn its place, and how a benchmark or testbed becomes a durable instrument |
-| `genre-guide.md` (both) | What evidence each genre owes, which demands are unfair to it, and observed venue lengths |
-| `source-patterns.md` (both) | Corpus-wide patterns, each with its transfer and its boundary |
-| `review-protocol.md` (review) | A read order, section checks, the arithmetic pass, the confound checklist, and the smallest sufficient repair |
-| `reviewer-question-bank.md` (review) | The sharp question for each claim type, plus the cheap answer that should satisfy it |
+| `argument-workshop.md` (writing) | How to turn a vague idea into a testable research question and a connected manuscript; includes a hypothetical worked example |
+| `research-design.md` (writing) | Which experiment distinguishes explanations, how to choose units and comparators, and what each evidence type supports |
+| `drafting.md` (writing) | How sections and paragraphs advance the same argument, from title through conclusion |
+| `wording.md` (both) | How to state precise claims, comparisons, uncertainty, scope, and missing evidence |
+| `research-programs.md` (writing) | How to choose a worthwhile follow-up and learn from negative or mixed results |
+| `genre-guide.md` (both) | What evidence the actual contribution needs |
+| `source-patterns.md` (both) | Source observations, transferable practices, and their boundaries |
+| `review-protocol.md` and `reviewer-question-bank.md` (review) | How to assess importance, logic, evidence, and the smallest sufficient repair |
+
+The [2026-09-09 rebuild](docs/REBUILD-2026-09-09.md) adds a separate, bounded rereading record for every paper and corrects overly rigid writing and statistical rules. It does not require a fixed contribution count, paragraph order, trial count, or evidence ladder.
 
 ## Install
 
@@ -65,8 +67,8 @@ Verify the source pages, then give me an exercise for my own project.
 
 ```text
 $xiao-paper-writing Audit this paragraph sentence by sentence: for each claim, name the
-highest evidence rung I actually reach, the fence the sentence is missing, and the smallest
-rewrite that makes it true: [paragraph].
+type of evidence it needs, the scope or uncertainty it leaves unclear, and the smallest
+accurate rewrite: [paragraph].
 ```
 
 ```text
@@ -84,7 +86,9 @@ Coverage is 135 main-text records plus 2 visual-main-text records. This means an
 
 On 2026-09-03 the corpus was re-downloaded and all 137 files matched their recorded SHA-256, then read again in 29 thematic batches plus 9 cross-cutting lenses (136 from extracted full text; the scanned Chinese-language article was handled visually, as in the first pass) to rebuild the reference files from the whole corpus rather than a starter set, and every page citation in them was verified against the PDF. Method and limits: [the corpus study](docs/CORPUS-STUDY.md). Records are also browsable by facet: `venue`, `venue_kind`, `paper_type`, and `research_line` (an editorial grouping made by this study, not the authors' own label).
 
-**No source PDFs, extracted full texts, Obsidian vault, private drafts, or personal filesystem paths are included.** Follow the source links and obtain originals from their authorized hosts. Linked files can change; page references and findings must be checked against the version actually used.
+The latest pass on **2026-09-09** revisited selected opening, closing, and evidence passages across all 137 primary papers, including visual reading of the scanned article. All primary local files matched their recorded hashes. This pass is **not a new full-text or technical audit**. Its date, pages, scope, and analytical lesson are recorded separately in each paper's `craft_reread` field; the earlier main-text records are preserved. Details: [rebuild and actual coverage](docs/REBUILD-2026-09-09.md).
+
+**No source PDFs, extracted full texts, Obsidian vault, private drafts, or personal filesystem paths are distributed.** Follow the source links and obtain originals from their authorized hosts. Linked files can change; page references and findings must be checked against the version actually used.
 
 ## Search the evidence locally
 
@@ -116,7 +120,7 @@ Each record's `pdf_relative_path` identifies the expected location. The helper r
 python3 -m unittest discover -s tests -v
 ```
 
-Tests check the ledger, source provenance, portable retrieval, input errors, reference links, and accidental private-path/PDF inclusion. They do not prove research correctness or acceptance prospects.
+Tests check the ledger, source provenance, portable retrieval, input errors, reference links, and accidental private-path/PDF inclusion. They do not prove research correctness or acceptance prospects. [Scenario walkthroughs](docs/SCENARIO-WALKTHROUGHS.md) provide transparent self-checks, not independent behavioral validation.
 
 ## Reuse and attribution
 

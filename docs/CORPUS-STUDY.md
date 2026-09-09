@@ -1,5 +1,7 @@
 # The 2026-09-03 full-text study
 
+> Historical study record. The current guidance was rebuilt on 2026-09-09; see [the new source work, corrections, and coverage limits](REBUILD-2026-09-09.md). Earlier counts and workflow descriptions below describe that earlier version.
+
 This documents the second reading pass over the corpus: what was read, how, what was produced, and what it does not establish. The first pass and the original snapshot are described in [provenance](PROVENANCE.md).
 
 ## Why a second pass

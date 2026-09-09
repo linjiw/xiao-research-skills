@@ -1,5 +1,7 @@
 # Provenance, scope, and validation
 
+> Historical study record. The current guidance was rebuilt on 2026-09-09; see [the new source work, corrections, and coverage limits](REBUILD-2026-09-09.md). Earlier counts and workflow descriptions below describe that earlier version.
+
 The study snapshot was assembled on September 2, 2026 from the primary-publication links on [Xuesu Xiao's GMU page](https://people.cs.gmu.edu/~xiao/#publications). The bundled ledgers identify every paper, its full citation, source URL, physical page count, source-file SHA-256, analytical observations, and actual reading scope.
 
 The study is of **coauthored** work. Attribution to Xiao personally is not inferred from coauthorship. The skills do not impersonate him, predict his reviews, or claim his endorsement. “Research mindset” means an analyst's interpretation of observable problem-solving practices, not access to private beliefs.

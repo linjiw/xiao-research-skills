@@ -55,7 +55,18 @@
       "Dataset"
     ],
     "paper_type": "challenge-report",
-    "research_line": "BARN: constrained-navigation benchmarking and challenge"
+    "research_line": "BARN: constrained-navigation benchmarking and challenge",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "State the participation funnel and cold-trial results before drawing conclusions about deployability or algorithm classes.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "mtc",
@@ -117,7 +128,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "dataset-benchmark",
-    "research_line": "Legged locomotion and curriculum learning"
+    "research_line": "Legged locomotion and curriculum learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Scene geometry must accompany motion when the scientific question concerns how clutter shapes locomotion and its evaluation.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "ado",
@@ -178,7 +200,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Model accuracy and computational cost should be judged through the closed-loop decisions they enable under a deadline.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "car",
@@ -239,7 +272,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Cross-platform adaptation should specify how relevant source data is selected and how much target information is required.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "temporal_tcgre",
@@ -301,7 +345,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "TCGRE: team coordination on graphs"
+    "research_line": "TCGRE: team coordination on graphs",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Predictable temporal risk makes future support allocation a distinct planning question from static coordination.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "zlik",
@@ -367,7 +422,18 @@
       "Code"
     ],
     "paper_type": "algorithm",
-    "research_line": "IKD: high-speed off-road inverse kinodynamics"
+    "research_line": "IKD: high-speed off-road inverse kinodynamics",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A zero-shot claim should disclose the target-specific description that conditions the model and the gaps actually crossed.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "lfh_cp",
@@ -427,7 +493,19 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "LfH: learning from hallucination"
+    "research_line": "LfH: learning from hallucination",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        2,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A factorized generator can target a diagnosed failure of the original representation rather than simply adding more samples.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "sbt",
@@ -487,7 +565,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Low-light and thermal off-road perception"
+    "research_line": "Low-light and thermal off-road perception",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Describe separately the modalities used to learn a representation and those required during deployment.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "hacl",
@@ -546,7 +635,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Legged locomotion and curriculum learning"
+    "research_line": "Legged locomotion and curriculum learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "History-dependent adaptation should identify what temporal information changes the training decisions and name the evaluated variant.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "hpr-tcgre",
@@ -608,7 +708,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "TCGRE: team coordination on graphs"
+    "research_line": "TCGRE: team coordination on graphs",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A follow-up may relax several coupled assumptions when the new problem and resulting obligations are explicit.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "vertiformer",
@@ -673,7 +784,18 @@
       "Code"
     ],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A unified multi-task interface should explain how missing modalities are handled and retain per-task exceptions.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "maction_socialnav",
@@ -735,7 +857,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "dataset-benchmark",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Ambiguous social situations can require a set-valued target and evaluation that measures both coverage and inappropriate actions.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "barn25_report",
@@ -800,7 +933,18 @@
       "Dataset"
     ],
     "paper_type": "challenge-report",
-    "research_line": "BARN: constrained-navigation benchmarking and challenge"
+    "research_line": "BARN: constrained-navigation benchmarking and challenge",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Untuned trials expose deployment effort that favorable tuned scores can hide.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "anticipatory_tamp",
@@ -860,7 +1004,19 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Motion memory / experience reuse in planning"
+    "research_line": "Motion memory / experience reuse in planning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        4,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A persistent environment changes the objective because current actions can make future tasks harder.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "carol",
@@ -922,7 +1078,19 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Adaptation depends on identifying relevant prior knowledge and stating the source coverage needed for transfer.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "hirl_vision_paper",
@@ -998,7 +1166,20 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "survey-position",
-    "research_line": "Human-robot co-transportation and shared control"
+    "research_line": "Human-robot co-transportation and shared control",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        3,
+        13,
+        22
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A vision paper should declare its normative scope and explain why human-robot interaction changes the research agenda.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "darc",
@@ -1073,7 +1254,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Human-robot co-transportation and shared control"
+    "research_line": "Human-robot co-transportation and shared control",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        20
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Explain the dependency between disturbance-aware control and pose selection when the contribution combines both.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "erc2024",
@@ -1134,7 +1326,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "challenge-report",
-    "research_line": "BARN: constrained-navigation benchmarking and challenge"
+    "research_line": "BARN: constrained-navigation benchmarking and challenge",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        4
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A field challenge makes sensing, computing, and control interfaces part of the performance evidence.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "tgs",
@@ -1197,7 +1400,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Generating candidate paths and selecting socially suitable paths are different decisions with different evidence needs.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "pietra",
@@ -1260,7 +1474,19 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        4,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Physics can enter both a probabilistic prior and a loss; distinguish the role and evidence for each route.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "id": 21,
@@ -1397,7 +1623,19 @@
       "Website"
     ],
     "paper_type": "survey-position",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        11,
+        55
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Choose evaluation methods for the research question rather than enforcing one universal social-navigation protocol.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "wm_vct",
@@ -1460,7 +1698,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A chassis and terrain interaction that violates rigid planar assumptions can justify a new dynamics representation.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "vlm_social_nav",
@@ -1524,7 +1773,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Explain how high-level language guidance becomes a cost or action in the actual planning loop.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "cahsor",
@@ -1587,7 +1847,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "IKD: high-speed off-road inverse kinodynamics"
+    "research_line": "IKD: high-speed off-road inverse kinodynamics",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Motivate a richer state representation through rollover, slip, and vibration rather than a generic dimensionality claim.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "barn24_report",
@@ -1651,7 +1922,18 @@
       "Dataset"
     ],
     "paper_type": "challenge-report",
-    "research_line": "BARN: constrained-navigation benchmarking and challenge"
+    "research_line": "BARN: constrained-navigation benchmarking and challenge",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Success-conditioned traversal times can favor different course subsets, complicating an aggregate competition ranking.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "social_navigation_survey",
@@ -1734,7 +2016,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "survey-position",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        28
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A taxonomy is useful when its dimensions let readers position and compare genuinely different social-navigation problems.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "barn23_report",
@@ -1797,7 +2090,18 @@
       "Dataset"
     ],
     "paper_type": "challenge-report",
-    "research_line": "BARN: constrained-navigation benchmarking and challenge"
+    "research_line": "BARN: constrained-navigation benchmarking and challenge",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Cross-year competition differences invite operational hypotheses, but changing entrants and conditions limit causal interpretations.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "barn22_report",
@@ -1862,7 +2166,18 @@
       "Dataset"
     ],
     "paper_type": "challenge-report",
-    "research_line": "BARN: constrained-navigation benchmarking and challenge"
+    "research_line": "BARN: constrained-navigation benchmarking and challenge",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        9
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Unexpected deployment failures can change what a benchmark should prioritize and deserve explicit discussion.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "scand",
@@ -1927,7 +2242,18 @@
       "Dataset"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A dataset contribution should specify what its data-generating process enables and keep preliminary utility claims bounded.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "applx",
@@ -2003,7 +2329,18 @@
       "Website"
     ],
     "paper_type": "algorithm",
-    "research_line": "APPL: adaptive planner parameter learning"
+    "research_line": "APPL: adaptive planner parameter learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        14
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Consolidation can expose a common interface and composition opportunities across previously separate learning signals.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "ml4nav_survey",
@@ -2082,7 +2419,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "survey-position",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        25
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A survey can clarify where learning changes an established pipeline and where classical capabilities already suffice.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "extrinsics",
@@ -2144,7 +2492,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Monitoring when recalibration is needed can target wasted computation more directly than continuously improving calibration accuracy.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "apple",
@@ -2207,7 +2566,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "APPL: adaptive planner parameter learning"
+    "research_line": "APPL: adaptive planner parameter learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Changing the human feedback interface can be a research contribution when it removes a concrete interaction requirement.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "viewpoints",
@@ -2273,7 +2643,18 @@
       "Website"
     ],
     "paper_type": "human-study",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        10
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Turn an ad hoc viewpoint choice into a task-dependent measurement problem using an explicit human-performance model.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "offroad",
@@ -2336,7 +2717,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "IKD: high-speed off-road inverse kinodynamics"
+    "research_line": "IKD: high-speed off-road inverse kinodynamics",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A learned model is motivated when unobserved terrain interactions become consequential at the intended operating speed.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "hallucination",
@@ -2401,7 +2793,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "LfH: learning from hallucination"
+    "research_line": "LfH: learning from hallucination",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Reformulate data collection by asking which environments make an already feasible action informative for learning.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "lifelong",
@@ -2462,7 +2865,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Define improvement over experience together with memory, computation, and retention of earlier capabilities.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "appld_ral",
@@ -2526,7 +2940,20 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "APPL: adaptive planner parameter learning"
+    "research_line": "APPL: adaptive planner parameter learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        2,
+        5,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A narrow learned parameter interface can change behavior substantially; evaluate the deployed stack and its failure conventions.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "risk_ral",
@@ -2589,7 +3016,18 @@
       "Presentation"
     ],
     "paper_type": "theory-planning",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Revisiting a definition can change the mathematical properties a planner is entitled to assume.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "energy_mechatronics",
@@ -2663,7 +3101,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "hardware-field",
-    "research_line": "Energy and achievable range"
+    "research_line": "Energy and achievable range",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        14
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A consolidated model should explain which new platforms or operating conditions its extension actually covers.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "snake_ras",
@@ -2729,7 +3178,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "survey-position",
-    "research_line": "Snake / hyper-redundant robots (early era)"
+    "research_line": "Snake / hyper-redundant robots (early era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        12
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A review can contribute by explaining why ad hoc testbeds prevent meaningful comparisons across robots.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "id": 42,
@@ -2790,7 +3250,21 @@
       "Video"
     ],
     "paper_type": "hardware-field",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "visual reading of article pages 6–10; bibliography not audited",
+      "physical_pages_consulted": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Make functional requirements explain subsystem choices, then test the promised functions and distinguish intended uses from demonstrated effects.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "applv",
@@ -2853,7 +3327,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "APPL: adaptive planner parameter learning"
+    "research_line": "APPL: adaptive planner parameter learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A foundation model can occupy a narrow parameter interface, but its benefit must be separated from changes in data and backbone.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "humain",
@@ -2916,7 +3401,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Distilling privileged human-pose cues motivates a restricted runtime interface but does not by itself establish real-time social behavior.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "compa",
@@ -2979,7 +3475,18 @@
       "Video"
     ],
     "paper_type": "hardware-field",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Mechanical decoupling can address a stability constraint while introducing state-dependent limits on achievable motion.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "va",
@@ -3027,7 +3534,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An adaptation interface should distinguish coefficient estimation from continued online learning and state its update limits.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "tnt",
@@ -3081,7 +3599,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Traversability should reflect the vehicle's interactions with terrain rather than a fixed semantic obstacle label alone.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "squid",
@@ -3129,7 +3658,19 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Legged locomotion and curriculum learning"
+    "research_line": "Legged locomotion and curriculum learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        2,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An explicit limitation-to-design mapping helps organize a multi-component contribution and creates clear evaluation commitments.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "faas",
@@ -3184,7 +3725,18 @@
       "Website"
     ],
     "paper_type": "simulator",
-    "research_line": "Low-light and thermal off-road perception"
+    "research_line": "Low-light and thermal off-road perception",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An asynchronous service interface can address a fidelity-versus-runtime constraint; inherited solver validation is not complete system validation.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "coral",
@@ -3238,7 +3790,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Separate high-level semantic decisions from low-level control when their time scales and verification needs differ.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "fire",
@@ -3288,7 +3851,18 @@
       "Website"
     ],
     "paper_type": "algorithm",
-    "research_line": "Low-light and thermal off-road perception"
+    "research_line": "Low-light and thermal off-road perception",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Connect thermal observations to a physically motivated representation and then to the planning decision it changes.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "transcurriculum",
@@ -3336,7 +3910,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Legged locomotion and curriculum learning"
+    "research_line": "Legged locomotion and curriculum learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Multiple curriculum axes and their history can be a coherent intervention if the training and deployment outcomes remain distinct.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "humembr",
@@ -3392,7 +3977,18 @@
       "Code"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Long-horizon memory should be tied to specific retrieval and navigation questions rather than memory size alone.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "narrate2nav",
@@ -3445,7 +4041,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Move expensive supervision into representation learning only if the deployed interface and task performance substantiate the intended benefit.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "adp",
@@ -3497,7 +4104,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Replacing a fixed fidelity schedule with adaptive allocation creates a mechanism claim beyond the original dynamics-planning formulation.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "legs_over_arms",
@@ -3544,7 +4162,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        5
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A controlled feature study can contribute by identifying which human cues predict trajectories better.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "failure_mitigation",
@@ -3596,7 +4225,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "dataset-benchmark",
-    "research_line": "Human-robot co-transportation and shared control"
+    "research_line": "Human-robot co-transportation and shared control",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Study the consequences of failures as well as their probability when prevention alone cannot define the safety objective.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "e_socialnav",
@@ -3649,7 +4289,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        4
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Higher action accuracy and throughput are distinct from measured physical navigation or energy savings.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "mrvs",
@@ -3702,7 +4353,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "human-study",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        19
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An integrated system study can establish useful experience while explicitly leaving individual feature causality unresolved.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "verti_arena",
@@ -3759,7 +4421,18 @@
       "Video"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        5
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A controllable physical testbed earns value by making terrain-dependent behavior measurable and repeatable.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "dom_phli",
@@ -3813,7 +4486,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "IKD: high-speed off-road inverse kinodynamics"
+    "research_line": "IKD: high-speed off-road inverse kinodynamics",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An operating regime can invalidate a contact assumption and create a control problem previously excluded by speed limits.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "rtw",
@@ -3867,7 +4551,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Legged locomotion and curriculum learning"
+    "research_line": "Legged locomotion and curriculum learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Adaptive auxiliary rewards still require accounting for the teacher objective and the engineering retained in the training system.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "ddp",
@@ -3921,7 +4616,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Treat the global-to-local dynamics discontinuity as a design variable rather than an inevitable architecture boundary.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "auto_spatial",
@@ -3974,7 +4680,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Separate the roles of automated labels and carefully chosen human annotations when explaining data efficiency.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "t_cbf",
@@ -4029,7 +4746,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Extending a safety concept beyond collision requires defining the new unsafe events and the scope of validation.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "m2p2",
@@ -4088,7 +4816,18 @@
       "Dataset"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "Low-light and thermal off-road perception"
+    "research_line": "Low-light and thermal off-road perception",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An extreme sensing constraint can justify a dataset through the information it captures, not only its size.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "gacl",
@@ -4142,7 +4881,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Legged locomotion and curriculum learning"
+    "research_line": "Legged locomotion and curriculum learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        5
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Curriculum selection must consider relevance to the target domain as well as current learning progress.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "vs",
@@ -4197,7 +4947,19 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Conditional wins across difficulty levels are informative; an undefined spread must be clarified before statistical interpretation.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "dyna_lflh",
@@ -4251,7 +5013,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "LfH: learning from hallucination"
+    "research_line": "LfH: learning from hallucination",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Extending a data-generation idea to moving obstacles changes its representation and diversity requirements.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "social_llava",
@@ -4307,7 +5080,18 @@
       "Website"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A language-annotation dataset and a robot demonstration support different levels of claim about social navigation.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "fetch_mpc",
@@ -4361,7 +5145,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Human-robot co-transportation and shared control"
+    "research_line": "Human-robot co-transportation and shared control",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Use redundancy to change future control cost and make the selection criterion visible in the method.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "adversarial_graph",
@@ -4413,7 +5208,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "theory-planning",
-    "research_line": "TCGRE: team coordination on graphs"
+    "research_line": "TCGRE: team coordination on graphs",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A game formulation can distinguish modeled worst-case guarantees from performance under sampled adversary behavior.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "mosu",
@@ -4465,7 +5271,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An integrated navigation system should explain how modalities inform different decisions and retain the unresolved perception failures.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "verti_bench",
@@ -4528,7 +5345,19 @@
       "Code"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8,
+        9
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Closed-loop mobility evaluation needs interacting systems, and ideal perception remains a substantive boundary of the benchmark.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "verticoder",
@@ -4580,7 +5409,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Representation reuse across tasks should specify which downstream functions share information and which evidence supports each.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "mgmm",
@@ -4634,7 +5474,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Motion memory / experience reuse in planning"
+    "research_line": "Motion memory / experience reuse in planning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Experience reuse in multi-goal planning should be evaluated together with retrieval and adaptation overhead.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "gnd",
@@ -4690,7 +5541,18 @@
       "Website"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A navigation dataset should expose the geometric, semantic, and traversability information needed by its intended tasks.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "vw_chrono",
@@ -4743,7 +5605,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "simulator",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        4
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Ground a simulator in the physical task and keep simulation evaluation separate from limited hardware demonstrations.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "deployment_learning_adaptation",
@@ -4801,7 +5674,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        16
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Policy selection during learning is a changing-performance problem rather than a stationary ranking problem.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "tal",
@@ -4856,7 +5740,18 @@
       "Poster"
     ],
     "paper_type": "algorithm",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An attention mechanism should be motivated by which terrain features affect vehicle motion under a computation budget.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "vanp",
@@ -4913,7 +5808,18 @@
       "Poster"
     ],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Use the downstream decision to motivate a representation-learning signal instead of assuming generic visual salience is sufficient.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "tcgre",
@@ -4967,7 +5873,18 @@
       "Video"
     ],
     "paper_type": "theory-planning",
-    "research_line": "TCGRE: team coordination on graphs"
+    "research_line": "TCGRE: team coordination on graphs",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Problem reformulation, complexity analysis, and algorithmic tradeoffs can form a contribution without a new learning architecture.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "dtg",
@@ -5022,7 +5939,18 @@
       "Code"
     ],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Trajectory quality and model efficiency are distinct outcomes; show which design choice is intended to improve each.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "bi_cl",
@@ -5076,7 +6004,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "TCGRE: team coordination on graphs"
+    "research_line": "TCGRE: team coordination on graphs",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A decomposition needs a mechanism for handling disagreement between its levels, not only a smaller action space.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "team_coordination_adversaries",
@@ -5130,7 +6069,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "TCGRE: team coordination on graphs"
+    "research_line": "TCGRE: team coordination on graphs",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An operational tradeoff between guarding and progress can define the objective and the coordination problem.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "vw",
@@ -5188,7 +6138,18 @@
       "Presentation"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "Verti: wheeled mobility on vertically challenging terrain"
+    "research_line": "Verti: wheeled mobility on vertically challenging terrain",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Distinguish what the vehicle can mechanically traverse from what its current navigation representation permits.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "mm",
@@ -5244,7 +6205,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "Motion memory / experience reuse in planning"
+    "research_line": "Motion memory / experience reuse in planning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Past planning experience is an asset only if its retrieval and reuse improve future planning at an acceptable cost.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "team_coordination_rl",
@@ -5300,7 +6272,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "TCGRE: team coordination on graphs"
+    "research_line": "TCGRE: team coordination on graphs",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Scaling a joint planning problem requires reporting both computational benefits and the properties no longer assured.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "hybrid_social_nav",
@@ -5356,7 +6339,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A hybrid system should explain which role each component handles and report scenarios where the combination remains limited.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "dexterous_locomotion",
@@ -5412,7 +6406,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "Legged locomotion and curriculum learning"
+    "research_line": "Legged locomotion and curriculum learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A changed environment geometry can motivate comparing end-to-end, hybrid, and predefined behavior as alternative designs.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "mtg",
@@ -5468,7 +6473,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Separate generating feasible candidates from covering the possible traversable directions.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "fetch_icps",
@@ -5523,7 +6539,18 @@
     ],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Human-robot co-transportation and shared control"
+    "research_line": "Human-robot co-transportation and shared control",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        5
+      ],
+      "source_sha256_verified": true,
+      "lesson": "State the assumed form of human uncertainty before deriving a controller intended to compensate for it.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "llm_susceptibility",
@@ -5593,7 +6620,18 @@
       "Code"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Define the diagnostic question and debate protocol before interpreting a benchmark score as a general reasoning capability.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "cbm",
@@ -5659,7 +6697,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Causal state abstraction for RL"
+    "research_line": "Causal state abstraction for RL",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Make the tradeoff between minimal task-specific abstraction and reusable dynamics explicit.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "vagn",
@@ -5727,7 +6776,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Separate semantic adaptation from geometric control and test the properties attributed to their interface.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "musohu",
@@ -5799,7 +6859,18 @@
       "Poster"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Natural human behavior can motivate a different collection process while downstream robot utility remains a separate claim.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "team_coordination",
@@ -5863,7 +6934,18 @@
       "Poster"
     ],
     "paper_type": "algorithm",
-    "research_line": "TCGRE: team coordination on graphs"
+    "research_line": "TCGRE: team coordination on graphs",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A support action can change the structure of an otherwise familiar graph-planning problem.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "navbenchmark",
@@ -5926,7 +7008,18 @@
       "Code"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "BARN: constrained-navigation benchmarking and challenge"
+    "research_line": "BARN: constrained-navigation benchmarking and challenge",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A benchmark's most useful result can be a disagreement between simulation and physical behavior.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "phhp",
@@ -5987,7 +7080,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "LfH: learning from hallucination"
+    "research_line": "LfH: learning from hallucination",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Changing the perception presented to an existing planner can alter coordination behavior without replacing the planner.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "performer_mpc",
@@ -6061,7 +7165,18 @@
       "Website"
     ],
     "paper_type": "algorithm",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Explain the interface between learned context and constrained optimization rather than describing two powerful ingredients separately.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "dynabarn",
@@ -6124,7 +7239,18 @@
       "Dataset"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "BARN: constrained-navigation benchmarking and challenge"
+    "research_line": "BARN: constrained-navigation benchmarking and challenge",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        5
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Make a missing evaluation axis controllable through a generator instead of treating one obstacle behavior as representative.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "optim-fkd",
@@ -6191,7 +7317,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "IKD: high-speed off-road inverse kinodynamics"
+    "research_line": "IKD: high-speed off-road inverse kinodynamics",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Changing the model's direction can expand the control questions that can be expressed in an optimization framework.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "vi-ikd",
@@ -6253,7 +7390,19 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "IKD: high-speed off-road inverse kinodynamics"
+    "research_line": "IKD: high-speed off-road inverse kinodynamics",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        2,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "The need to anticipate terrain interaction provides a causal motivation for visual information beyond inertial history.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "cdl",
@@ -6315,7 +7464,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Causal state abstraction for RL"
+    "research_line": "Causal state abstraction for RL",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Explain why removing spurious dependencies should improve dynamics prediction and downstream reuse, with separate support for each.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "voila",
@@ -6376,7 +7536,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A missing demonstration channel can define the research problem; state what observation-only learning still requires.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "vrl-pap",
@@ -6438,7 +7609,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "IKD: high-speed off-road inverse kinodynamics"
+    "research_line": "IKD: high-speed off-road inverse kinodynamics",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Challenge a discrete semantic interface when the operational preferences include mixtures or categories not enumerated in advance.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "e2e_params",
@@ -6505,7 +7687,18 @@
       "Video"
     ],
     "paper_type": "survey-position",
-    "research_line": "APPL: adaptive planner parameter learning"
+    "research_line": "APPL: adaptive planner parameter learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Compare alternative learning interfaces through the actual data and transfer question instead of assuming their advertised properties.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "lflh",
@@ -6568,7 +7761,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "LfH: learning from hallucination"
+    "research_line": "LfH: learning from hallucination",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Learning the data generator can remove robot-specific construction rules, but the downstream transfer still needs testing.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "tocpur",
@@ -6636,7 +7840,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "TCGRE: team coordination on graphs"
+    "research_line": "TCGRE: team coordination on graphs",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A new planning formulation can arise from costs that accumulate over repeated visits rather than from a new solver alone.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "sober",
@@ -6699,7 +7914,18 @@
       "Presentation"
     ],
     "paper_type": "algorithm",
-    "research_line": "LfH: learning from hallucination"
+    "research_line": "LfH: learning from hallucination",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Removing a runtime requirement is a distinct research advance whose deployment and training consequences should be explicit.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "appli",
@@ -6761,7 +7987,18 @@
       "Website"
     ],
     "paper_type": "algorithm",
-    "research_line": "APPL: adaptive planner parameter learning"
+    "research_line": "APPL: adaptive planner parameter learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Concentrate intervention data on problematic behavior while checking what happens in scenarios that already worked.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "applr",
@@ -6823,7 +8060,18 @@
       "Website"
     ],
     "paper_type": "algorithm",
-    "research_line": "APPL: adaptive planner parameter learning"
+    "research_line": "APPL: adaptive planner parameter learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Changing the learning signal and decision horizon can remove limitations of demonstration-based adaptation.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "navdiffdataset_ssrr",
@@ -6886,7 +8134,18 @@
       "Presentation"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "BARN: constrained-navigation benchmarking and challenge"
+    "research_line": "BARN: constrained-navigation benchmarking and challenge",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        5
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A benchmark can make whole-system navigation measurable, with difficulty tied to an explicit reference protocol.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "hallway_icsr",
@@ -6958,7 +8217,18 @@
       "Video"
     ],
     "paper_type": "human-study",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        10
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A human-inspired cue requires a measured human response; preserve null questionnaire findings alongside behavioral effects.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "benchmark_ssrr",
@@ -7024,7 +8294,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Benchmark motion primitives against the path properties that expose their distinct control behavior.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "risk_ssrr",
@@ -7091,7 +8372,18 @@
       "Video"
     ],
     "paper_type": "theory-planning",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A formal definition should make stipulated properties visible so later reasoning can examine their consequences.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "tether_fsr",
@@ -7160,7 +8452,18 @@
       "Video"
     ],
     "paper_type": "hardware-field",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        12
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An integrated system paper should connect enabling components to the operational burden that motivates their combination.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "planning_iros",
@@ -7223,7 +8526,18 @@
       "Video"
     ],
     "paper_type": "theory-planning",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Present competing planning choices through their reachability-versus-accuracy tradeoff rather than forcing one universal winner.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "battery_iros",
@@ -7291,7 +8605,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "hardware-field",
-    "research_line": "Energy and achievable range"
+    "research_line": "Energy and achievable range",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Tie range estimation to explicit energy consumers and disclose the model's limits instead of treating its scope as universal.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "localization_ssrr",
@@ -7353,7 +8678,18 @@
     ],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        5
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Use an existing physical constraint as a sensor, then model the deviation from its ideal geometry.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "bsn_biorob",
@@ -7422,7 +8758,18 @@
       "Video"
     ],
     "paper_type": "dataset-benchmark",
-    "research_line": "Wearable inertial pose tracking (industry era)"
+    "research_line": "Wearable inertial pose tracking (industry era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        7
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A less intrusive human interface can break a calibration assumption and thereby create a concrete modeling problem.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "mocap_icra",
@@ -7484,7 +8831,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Wearable inertial pose tracking (industry era)"
+    "research_line": "Wearable inertial pose tracking (industry era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Connect sensor displacement to a failure of the kinematic representation and evaluate learning as compensation for that failure.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "concealment_bsn",
@@ -7543,7 +8901,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "algorithm",
-    "research_line": "Wearable inertial pose tracking (industry era)"
+    "research_line": "Wearable inertial pose tracking (industry era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        5
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A prediction method's computational structure matters when it must operate across many channels on constrained hardware.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "servoing_ssrr",
@@ -7605,7 +8974,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Distinguish successful visual tracking from the human teleoperation benefit that tracking is intended to enable.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "pose_ssrr",
@@ -7674,7 +9054,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Identify the geometric assumption that fails in the intended camera orientation before introducing the alternative estimator.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "emily_iros",
@@ -7737,7 +9128,18 @@
       "Video"
     ],
     "paper_type": "hardware-field",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        5
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Motivate a sensing viewpoint through a concrete visibility limitation and separate system operation from broader rescue impact.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "case_ssrr",
@@ -7801,7 +9203,18 @@
       "Dataset"
     ],
     "paper_type": "hardware-field",
-    "research_line": "Tethered UAV and risk-aware assistance (PhD era)"
+    "research_line": "Tethered UAV and risk-aware assistance (PhD era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        8
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Real deployments can generate a useful gap taxonomy even when they are not controlled algorithm comparisons.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "snake_icra",
@@ -7863,7 +9276,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "Snake / hyper-redundant robots (early era)"
+    "research_line": "Snake / hyper-redundant robots (early era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        5
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Reduce the decision space at a meaningful interface while explaining which movement capabilities the abstraction preserves.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "multimodal_social_nav",
@@ -7927,7 +9351,18 @@
       "Code"
     ],
     "paper_type": "survey-position",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Keep offline imitation evidence and human-study evidence distinct when making claims about multimodal benefit.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "ses",
@@ -7988,7 +9423,18 @@
       "Video"
     ],
     "paper_type": "algorithm",
-    "research_line": "LfH: learning from hallucination"
+    "research_line": "LfH: learning from hallucination",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Deployment failures can inform training-environment synthesis, provided the feedback and evaluation distributions remain explicit.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "social_nav_protocol",
@@ -8046,7 +9492,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "dataset-benchmark",
-    "research_line": "Social navigation: data, benchmarks, and language reasoning"
+    "research_line": "Social navigation: data, benchmarks, and language reasoning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        4
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Pilot the stability and meaning of a human-rating instrument before using it to rank navigation policies.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "ticsa",
@@ -8109,7 +9566,18 @@
       "Video"
     ],
     "paper_type": "workshop-abstract",
-    "research_line": "Causal state abstraction for RL"
+    "research_line": "Causal state abstraction for RL",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        10
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Connect abstraction to which variables matter for dynamics and task transfer rather than dimension reduction alone.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "compound_icra15_ws",
@@ -8154,7 +9622,17 @@
       "Poster"
     ],
     "paper_type": "workshop-abstract",
-    "research_line": "Snake / hyper-redundant robots (early era)"
+    "research_line": "Snake / hyper-redundant robots (early era)",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A compact workshop contribution can propose a useful control abstraction while keeping cross-domain biological interpretations hypothetical.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "sss21_appl_tr",
@@ -8205,7 +9683,18 @@
       "Code"
     ],
     "paper_type": "tech-report",
-    "research_line": "APPL: adaptive planner parameter learning"
+    "research_line": "APPL: adaptive planner parameter learning",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        2
+      ],
+      "source_sha256_verified": true,
+      "lesson": "An infrastructure abstract can explain how execution constraints are removed without inventing an unreported throughput gain.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "energy_utilization",
@@ -8259,7 +9748,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "tech-report",
-    "research_line": "Energy and achievable range"
+    "research_line": "Energy and achievable range",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        6
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Connect an energetic model to an operational decision such as speed or duty cycle, with the operating assumptions retained.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "id": 136,
@@ -8742,7 +10242,19 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "tech-report",
-    "research_line": "standalone"
+    "research_line": "standalone",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        9,
+        159
+      ],
+      "source_sha256_verified": true,
+      "lesson": "Separate enabling exploration stages and present-day evidence from mission capabilities that still require development.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   },
   {
     "key": "energy_considerations",
@@ -8816,6 +10328,18 @@
     "awards": [],
     "artifacts": [],
     "paper_type": "tech-report",
-    "research_line": "Energy and achievable range"
+    "research_line": "Energy and achievable range",
+    "craft_reread": {
+      "date": "2026-09-09",
+      "scope": "selected opening, closing or anchor excerpts; additional passages where recorded; not a full-text reread",
+      "physical_pages_consulted": [
+        1,
+        3,
+        26
+      ],
+      "source_sha256_verified": true,
+      "lesson": "A mission resource model can reveal that apparently secondary system loads determine the useful operating policy.",
+      "interpretation": "analyst synthesis for research and writing; not a verified causal finding or individual author preference"
+    }
   }
 ]

@@ -85,6 +85,32 @@ class PackageTests(unittest.TestCase):
         for relative in SHARED:
             self.assertEqual((SKILLS[0]/relative).read_bytes(), (SKILLS[1]/relative).read_bytes())
 
+    def test_craft_reread_preserves_separate_bounded_provenance(self):
+        for skill in SKILLS:
+            rows = records(skill)
+            for row in rows:
+                with self.subTest(skill=skill.name, key=row['key']):
+                    reread = row['craft_reread']
+                    self.assertEqual(reread['date'], '2026-09-09')
+                    self.assertLess(row['analysis_date'], reread['date'])
+                    self.assertTrue(reread['scope'])
+                    self.assertTrue(reread['lesson'])
+                    self.assertTrue(reread['interpretation'])
+                    self.assertIs(reread['source_sha256_verified'], True)
+                    pages = reread['physical_pages_consulted']
+                    self.assertTrue(pages)
+                    self.assertEqual(pages, sorted(set(pages)))
+                    self.assertTrue(all(isinstance(n, int) and 1 <= n <= row['physical_pages']
+                                        for n in pages))
+            # Text extraction once introduced false page separators in this PDF.
+            mtc = next(row for row in rows if row['key'] == 'mtc')
+            self.assertEqual(mtc['physical_pages'], 9)
+            self.assertIn(7, mtc['craft_reread']['physical_pages_consulted'])
+            retrieved = lookup(skill, '--key', 'car_jmee')
+            self.assertEqual(retrieved.returncode, 0, retrieved.stderr)
+            self.assertEqual(json.loads(retrieved.stdout)[0]['craft_reread'],
+                             next(row for row in rows if row['key'] == 'car_jmee')['craft_reread'])
+
     def test_skill_entrypoints_and_references(self):
         for skill in SKILLS:
             body = (skill/'SKILL.md').read_text()
@@ -219,9 +245,10 @@ class PackageTests(unittest.TestCase):
             pages = {p['key']: p['physical_pages'] for p in records(skill)}
             for path in sorted((skill/'references').glob('*.md')):
                 body = path.read_text()
-                cited = [(key, span) for key, span in CITATION.findall(body) if key in pages]
+                cited = CITATION.findall(body)
                 with self.subTest(reference=f'{skill.name}/{path.name}'):
                     for key, span in cited:
+                        self.assertIn(key, pages, f'{path.name}: unknown paper key {key}')
                         for number in re.findall(r'\d+', span):
                             self.assertLessEqual(int(number), pages[key], f'{path.name}: {key} p{number} exceeds {pages[key]} pages')
                     # A file that cites nothing has stopped being evidence-grounded.
