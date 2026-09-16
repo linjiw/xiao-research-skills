@@ -17,6 +17,8 @@ The recurring workflow is: identify a consequential question → reason about co
 
 | Reference | Answers |
 | --- | --- |
+| `learning-from-papers.md` (writing) | How to separate source observations from transferable lessons, compare literature, and test a lesson on a different problem |
+| `source-retrieval.md` (both) | How to retrieve records, check versions, and disclose actual reading scope |
 | `argument-workshop.md` (writing) | How to turn a vague idea into a testable research question and a connected manuscript; includes a hypothetical worked example |
 | `research-design.md` (writing) | Which experiment distinguishes explanations, how to choose units and comparators, and what each evidence type supports |
 | `drafting.md` (writing) | How sections and paragraphs advance the same argument, from title through conclusion |
@@ -28,6 +30,10 @@ The recurring workflow is: identify a consequential question → reason about co
 
 The [2026-09-09 rebuild](docs/REBUILD-2026-09-09.md) adds a separate, bounded rereading record for every paper and corrects overly rigid writing and statistical rules. It does not require a fixed contribution count, paragraph order, trial count, or evidence ladder.
 
+Release notes and concrete acceptance walkthroughs: [2026-09-16](docs/RELEASE-2026-09-16.md).
+
+The [Astra instruction audit](docs/ASTRA-AUDIT-2026-09-16.md) explains the shorter entrypoints, task completion criteria, and source-learning guide. Repository maintenance guidance lives in [AGENTS.md](AGENTS.md).
+
 ## Install
 
 In Codex, ask the built-in installer:
@@ -37,7 +43,7 @@ $skill-installer Install both skills from linjiw/xiao-research-skills:
 skills/xiao-paper-writing and skills/xiao-paper-review.
 ```
 
-Install only the skill you need if preferred. If one with the same name is already installed, compare versions before replacing it. The package uses standard skill folders; it is not a marketplace plugin. See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills) for discovery and installation behavior. Restart Codex if a newly installed skill does not appear.
+Install only the skill you need if preferred. If one with the same name is already installed, compare versions and back it up outside the active skills directory before replacing it. Keep both shared-resource copies from the same release when installing both skills. The package uses standard skill folders; it is not a marketplace plugin. See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills) for discovery and installation behavior. Newly installed skills are available on the next turn. If one does not appear, restart Codex.
 
 The optional lookup helper requires Python 3.9 or newer and only the standard library. No API key, Obsidian installation, or PDF collection is required.
 
@@ -120,7 +126,7 @@ Each record's `pdf_relative_path` identifies the expected location. The helper r
 python3 -m unittest discover -s tests -v
 ```
 
-Tests check the ledger, source provenance, portable retrieval, input errors, reference links, and accidental private-path/PDF inclusion. They do not prove research correctness or acceptance prospects. [Scenario walkthroughs](docs/SCENARIO-WALKTHROUGHS.md) provide transparent self-checks, not independent behavioral validation.
+Tests check the ledger, source provenance, retrieval from isolated single-skill installs, input errors, local reference links, and accidental private-path/PDF inclusion. GitHub Actions runs the same offline suite on Python 3.9 and 3.13. They do not prove research correctness or acceptance prospects. [Scenario walkthroughs](docs/SCENARIO-WALKTHROUGHS.md) provide transparent self-checks, not independent behavioral validation.
 
 ## Reuse and attribution
 

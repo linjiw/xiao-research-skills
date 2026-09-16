@@ -2,6 +2,7 @@
 import hashlib
 import json
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -12,7 +13,8 @@ from urllib.parse import urlsplit
 ROOT = Path(__file__).resolve().parents[1]
 SKILLS = tuple(ROOT/'skills'/name for name in ('xiao-paper-writing', 'xiao-paper-review'))
 SHARED = ('references/evidence-ledger.json', 'references/genre-guide.md',
-          'references/source-patterns.md', 'references/wording.md', 'scripts/lookup_evidence.py')
+          'references/source-patterns.md', 'references/source-retrieval.md',
+          'references/wording.md', 'scripts/lookup_evidence.py')
 PAPER_TYPES = frozenset((
     'algorithm', 'dataset-benchmark', 'simulator', 'theory-planning', 'human-study',
     'hardware-field', 'survey-position', 'challenge-report', 'tech-report', 'workshop-abstract',
@@ -131,6 +133,40 @@ class PackageTests(unittest.TestCase):
                     self.assertEqual(row['key'], key)
                     self.assertFalse(row['local_pdf_available'])
                     self.assertNotIn('local_pdf', row)
+
+    def test_each_skill_runs_in_an_isolated_install(self):
+        for skill in SKILLS:
+            with self.subTest(skill=skill.name), tempfile.TemporaryDirectory(prefix='xiao-install-') as directory:
+                installed = Path(directory)/skill.name
+                shutil.copytree(skill, installed, ignore=shutil.ignore_patterns('__pycache__', '*.pyc'))
+                result = subprocess.run(
+                    [sys.executable, str(installed/'scripts/lookup_evidence.py'), '--key', 'appld_ral'],
+                    cwd=directory, capture_output=True, text=True, check=False,
+                )
+                self.assertEqual(result.returncode, 0, result.stderr)
+                row, = json.loads(result.stdout)
+                self.assertEqual(row['key'], 'appld_ral')
+                self.assertFalse(row['local_pdf_available'])
+                self.assertFalse((Path(directory)/'local-papers').exists())
+
+    def test_all_skill_document_links_are_local_and_resolve(self):
+        for skill in SKILLS:
+            for path in skill.rglob('*.md'):
+                body = path.read_text()
+                # Check both clickable Markdown links and the existing inline-code references.
+                targets = re.findall(r'\[[^\]]*\]\(([^)]+)\)', body)
+                targets += re.findall(r'`([^`\s]+\.(?:md|json|py))`', body)
+                for target in targets:
+                    if urlsplit(target).scheme or target.startswith('#'):
+                        continue
+                    with self.subTest(skill=skill.name, file=path.name, target=target):
+                        relative = target.split('#', 1)[0]
+                        # references/scripts prefixes denote the skill root; bare names
+                        # in a reference document denote its own directory.
+                        base = skill if relative.startswith(('references/', 'scripts/')) else path.parent
+                        resolved = (base/relative).resolve()
+                        self.assertTrue(resolved.is_relative_to(skill.resolve()), target)
+                        self.assertTrue(resolved.is_file(), target)
 
     def test_search_is_case_insensitive_and_limited(self):
         for skill in SKILLS:
